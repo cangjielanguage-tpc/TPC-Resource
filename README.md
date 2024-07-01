@@ -4,9 +4,9 @@
 
 ## 网络
 
-[hyperion](https://gitcode.com/Cangjie-TPC/hyperion/overview)——仓颉语言实现的TCP通信框架，支持添加自定义编解码器，积木式添加IoFilter处理入栈出栈消息。仓颉redis-sdk和activemq4cj项目使用了该框架。
+[hyperion](https://gitcode.com/Cangjie-TPC/hyperion/overview)——仓颉语言实现的TCP通信框架，支持添加自定义编解码器，积木式添加IoFilter处理入栈出栈消息。仓颉redis-sdk和activemq4cj项目使用了该框架。感谢北京宝兰德软件股份有限公司中间件团队为仓颉编程语言TPC社区做出的贡献！
 
 ## 数据库驱动
 
-[redis-sdk](https://gitcode.com/Cangjie-TPC/redis-sdk/overview)——仓颉语言实现的Redis客户端SDK。接口设计兼容jedis接口语义，支持RESP2和RESP3协议，支持发布订阅模式，支持哨兵模式和集群模式。
+[redis-sdk](https://gitcode.com/Cangjie-TPC/redis-sdk/overview)——仓颉语言实现的Redis客户端SDK。接口设计兼容jedis接口语义，支持RESP2和RESP3协议，支持发布订阅模式，支持哨兵模式和集群模式。感谢北京宝兰德软件股份有限公司中间件团队为仓颉编程语言TPC社区做出的贡献！
 
