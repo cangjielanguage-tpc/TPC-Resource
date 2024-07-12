@@ -25,3 +25,7 @@
 &nbsp;
 
 [config-server](https://gitcode.com/Cangjie-TPC/config-server/overview)——Config Server是一个仓颉实现的可横向扩展、集中式的配置服务器，它用于集中管理应用程序各个环境下的配置。感谢普元信息技术股份有限公司为仓颉编程语言TPC社区做出的贡献！
+
+## 任务调度
+
+[quartz4cj](https://gitcode.com/Cangjie-TPC/quartz4cj/overview)—— quartz4cj是一个功能丰富的开源作业调度库，可通过触发器设置作业定时运行规则，控制作业的运行时间。感谢上海赛可出行科技服务有限公司架构团队为仓颉编程语言TPC社区做出的贡献！
