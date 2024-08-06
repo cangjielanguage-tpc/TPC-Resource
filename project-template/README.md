@@ -23,8 +23,12 @@
 ```shell
 .
 ├── README.md
-├── doc //
-├── 
+├── LICENSE
+├── CHANGELOG
+├── cjpm.toml
+├── doc
+    └── readme-image
+|
 └── src
     ├── demo1.cj
     ├── demo2.cj
