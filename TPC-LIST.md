@@ -1,5 +1,5 @@
 | 三方库名称 | 描述| 源库地址   | 功能分类    |
-| :-------------- | :---- | :------------- | :-------------- |
+| -------------- | ---- | ------------- | -------------- |
 | jbox2d  | 一个2D的Java物理引擎，C++物理引擎Box2D和LiquidFun的原生Java端口。 | https://github.com/jbox2d/jbox2d     | 物理引擎    |
 | postcss                          | PostCSS是一个用JS插件转换样式的工具。这些插件可以检测你的CSS，支持变量和混合，编译未来的CSS语法，内联图像等等            | https://gitee.com/openharmony-tpc/openharmony_tpc_samples/tree/master/htmlparser2                    | 文件数据类   |
 | protobuf_format/xml_js           | protobufjs主要功能是序列化和反序列化，更高效，序列化后的体积也很小.             | https://gitee.com/openharmony-tpc/protobuf                                                           | 文件数据类   |
