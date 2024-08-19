@@ -28,7 +28,7 @@ Cangjie-TPC 是 Cangjie 社区用于汇集基于仓颉编程语言开发的开�
 
 Cangjie-TPC 社区将在5个工作日内进行评审，评审结果将以邮件形式返回
 
-#### STEP 3 签署 CLA 协议
+#### STEP 4 签署 CLA 协议
 
 评审通过后，请点击下方链接，[下载 CLA 模版](https://gitcode.com/Cangjie-TPC/Community/tree/main/CLA)，打印签署后，回复邮件至 `cangjie@huawei.com` 
 
@@ -38,11 +38,11 @@ Cangjie-TPC 社区将在5个工作日内进行评审，评审结果将以邮件�
 
 + ICLA 为个人贡献协议
 
-#### STEP 4 准入孵化
+#### STEP 5 准入孵化
 
 签署 CLA 协议后，Cangjie-TPC 社区将在5个工作日内创建项目，并邀请您加入项目
 
-#### STEP 5 准出毕业
+#### STEP 6 准出毕业
 
 毕业相关质量标准以及基础设施正在建设中，敬请期待
 
