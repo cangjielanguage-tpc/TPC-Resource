@@ -71,6 +71,6 @@ Cangjie-TPC 社区将在5个工作日内进行评审，评审结果将以邮件�
 （请描述您的pr所做的工作）
 ```
 
-#### STEP 4 联系 Committer 合入代码
+#### STEP 4 由 Committer 审核并合入代码
 
-每个项目都有确定的 Committer，联系 Committer 合入代码
+由Committer对PR进行审核，通过审核后即可合入代码。
