@@ -59,7 +59,7 @@
 
 模板参考：[LICSENSE](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/project-template/LICENSE)
 
-推荐使用 Apache License Version 2.0，其他LICSENSE参考[Cangjie 社区项目代码许可证规则与特殊许可证评审指导](Cangjie%20社区项目代码许可规则与特殊许可证指导.md)
+推荐使用 Apache License Version 2.0，其他LICSENSE参考[Cangjie 社区项目代码许可证规则与特殊许可证评审指导](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/Cangjie-Rules/Cangjie%20%E7%A4%BE%E5%8C%BA%E9%A1%B9%E7%9B%AE%E4%BB%A3%E7%A0%81%E8%AE%B8%E5%8F%AF%E8%A7%84%E5%88%99%E4%B8%8E%E7%89%B9%E6%AE%8A%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%8C%87%E5%AF%BC.md)
 
 ### 必须有 CHANGELOG 文件
 
