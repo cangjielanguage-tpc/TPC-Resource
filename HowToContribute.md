@@ -42,6 +42,11 @@ Cangjie-TPC 社区将在5个工作日内进行评审，评审结果将以邮件�
 
 签署 CLA 协议后，Cangjie-TPC 社区将在5个工作日内创建项目，并邀请您加入项目
 
++ 如果您申请的项目在当前TPC组织规划内，TPC社区将邀请您在Cangjie-TPC组织下建仓
++ 如果您申请的项目暂时不在TPC组织规划内，TPC社区将邀请您在Cangjie-SIG组织内建仓，待孵化完成后您可以向[官方邮箱](cangjie@huawei.com)发送申请加入Cangjie-TPC组织
+
+[Cangjie-TPC组织](https://gitcode.com/Cangjie-TPC)和[Cangjie-SIG组织](https://gitcode.com/Cangjie-SIG)同属Cangjie-TPC社区管辖
+
 #### STEP 6 准出毕业
 
 毕业相关质量标准以及基础设施正在建设中，敬请期待
