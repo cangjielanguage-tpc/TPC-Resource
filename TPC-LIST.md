@@ -15,7 +15,7 @@
 
 ### 自定义UI组件
 
-- [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) -- 带有动画的上拉刷新和下拉加载的滑动列表库
+- [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) --  [**已由仓颉库团队认领**]带有动画的上拉刷新和下拉加载的滑动列表库
 - [vlayout](https://github.com/alibaba/vlayout) -- 布局扩展组件，提供一整套布局方案和布局间的组件复用功能
 - [DanmakuFlameMaster](https://github.com/bilibili/DanmakuFlameMaster/blob/master) -- 弹幕放送、解析与绘制库
 - [MultiType](https://github.com/drakeet/MultiType) -- 为ohos的list组件创建多种条目类型的库
@@ -29,7 +29,7 @@
 - [TextLayoutBuilder](https://github.com/facebook/TextLayoutBuilder) -- 文本自定义布局组件
 - [ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom) -- 图片加载组件，支持缩放和平移
 - [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) -- 带有添加删除动画效果以及整体动画效果的list组件库
-- [shimmer-ohos](https://github.com/facebook/shimmer-android) -- 供各种形态的页面加载的闪烁效果
+- [shimmer-ohos](https://github.com/facebook/shimmer-android) --  [**已由仓颉库团队认领**]供各种形态的页面加载的闪烁效果
 - [material-dialogs](https://github.com/afollestad/material-dialogs) -- 自定义弹框组件
 - [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) -- 抽屉组件
 - [RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager) -- 支持无限循环、左右翻页切换效果、上下翻页切换效果、Material风格的容器
@@ -79,7 +79,7 @@
 
 - [jbox2d](https://github.com/jbox2d/jbox2d) -- 一个2D的Java物理引擎，C++物理引擎Box2D和LiquidFun的原生Java端口。
 - [sanitize-html](https://github.com/apostrophecms/sanitize-html) -- 用于清理HTML内容，防止跨站脚本攻击（XSS）。它可以删除不必要的标签和属性，同时保留你需要的内容。
-- [androidvideocache](https://github.com/danikula/AndroidVideoCache) -- 视频缓存
+- [androidvideocache](https://github.com/danikula/AndroidVideoCache) --  [**已由仓颉库团队认领**]视频缓存
 - [epublib](https://github.com/psiegman/epublib) -- 读取/写入epub格式文件的核心实现并提供一组epub工具
 - [ohos_mail](https://github.com/eclipse-ee4j/mail) -- 检测并解析MIME格式的电子邮件消息流，并构建电子邮件消息的组件合集
 - [apacheavro](https://github.com/apache/avro) -- Avro是一个数据序列化的系统，可以将数据结构或对象转化成便于存储或传输的格式，适合于远程或本地大规模数据的存储和交换
@@ -87,21 +87,21 @@
 - [msgpack-java](https://github.com/msgpack/msgpack-java) -- MessagePack是一种高效的二进制序列化格式。它允许你像JSON一样在多种语言之间交换数据。但它更快更小。小整数被编码成一个字节，典型的短字符串除了字符串本身只需要一个额外的字节。
 - [compare-versions](https://www.npmjs.com/package/compare-versions) -- 比较版本号
 - [androidutilcode](https://github.com/iknow4/Android-utils) -- 安卓工具类库
-- [leven](https://github.com/sindresorhus/leven) -- 【已由[@Chemxy](https://gitcode.com/Chemxy)认领】使用Levenshtein距离算法测量两个字符串之间的差异
+- [leven](https://github.com/sindresorhus/leven) -- 【**已由[@Chemxy](https://gitcode.com/Chemxy)认领**】使用Levenshtein距离算法测量两个字符串之间的差异
 - [dd-plist](https://github.com/3breadt/dd-plist) -- plist文件解析库
 - [Easyrelpace](https://github.com/codsen/codsen<br/>https://github.com/sindresorhus/leven) -- 字符串对比替换
-- [is-png](https://github.com/sindresorhus/is-png) -- 【已由[@PermissionDog](https://gitcode.com/permissiondog)认领】判断是否是png格式文件的库
+- [is-png](https://github.com/sindresorhus/is-png) -- 【**已由[@PermissionDog](https://gitcode.com/permissiondog)认领**】判断是否是png格式文件的库
 - [apachejakartacommonsvalida](https://commons.apache.org/proper/commons-validator/<br/>https://github.com/apache/commons-validator) -- Apache Commons Validator为客户端验证和服务器端数据验证提供了构建块。
 - [mime](https://www.npmjs.com/package/mime) -- 全面的MIME类型集
 - [checksum](https://github.com/dshaw/checksum) -- 计算散列函数的组件，如sha1，MD5等
-- [is-webp](https://github.com/sindresorhus/is-webp) -- 【已由[软通动力]()/[@ZIYAN137](https://gitcode.com/ZIYAN137)认领】判断是否是webp的库
+- [is-webp](https://github.com/sindresorhus/is-webp) -- 【**已由[软通动力]()/[@ZIYAN137](https://gitcode.com/ZIYAN137)认领**】判断是否是webp的库
 - [jmustache](https://github.com/samskivert/jmustache) -- jmustache是一个Java的Mustache模板引擎实现，它是Mustache规范的一个Java实现。Mustache是一个轻量级的模板引擎，它的语法简单易懂，易于学习和使用，被广泛应用于Web应用程序和其它领域。
 - [json-schema-validator](https://github.com/box-metadata/json-schema-validator) -- 基于 JSON Schema规范，验证Json数据结构的库。
 - [protobuf-format](https://github.com/bivas/protobuf-java-format) -- 基于Google的protobufMessage提供不同格式的序列化和反序列化。允许将默认（字节数组）输出覆盖为基于文本的格式，例如XML、JSON和HTML。
 - [soundex-code](https://github.com/words/soundex-code) -- 这个包公开了一个语音算法。这意味着它得到一个特定的字符串（通常是人名），并将其转换成代码，然后可以将其与其他代码（其他名称）进行比较，以检查它们是否（可能）发音相
 - [caverphone](https://gitee.com/openharmony-tpc/openharmony_tpc_samples/tree/master/CaverPhone) -- CaverPhone算法(语音匹配算法)的JavaScript实现，规则为：将关键字转换为小写，移除不是a-z的字符，按照规则替换指定字符(如字符串起始、结束，文本中包含cq等)，在结尾放置6个1，返回前十个字符，具体参照CaverPhone算法规则。
-- [hi-base32](https://github.com/emn178/hi-base32/blob/master/src/base32.js) -- 【已由[@Moem](https://gitcode.com/Moem)认领】一个简单的Base32(RFC4648)编码/解码函数支持UTF-8编码
-- [metaphone](https://words.github.io/metaphone/) -- 【已由[@yishengTH](https://gitcode.com/yishengTH)认领】语音算法，支持将一个特定的字符串（通常是一个英文单词），将其转化为一个代码，然后可以将其与其他代码（或其他单词）进行比较，以检查他们是否（可能）发音相同
+- [hi-base32](https://github.com/emn178/hi-base32/blob/master/src/base32.js) -- 【**已由[@Moem](https://gitcode.com/Moem)认领**】一个简单的Base32(RFC4648)编码/解码函数支持UTF-8编码
+- [metaphone](https://words.github.io/metaphone/) -- 【**已由[@yishengTH](https://gitcode.com/yishengTH)认领**】语音算法，支持将一个特定的字符串（通常是一个英文单词），将其转化为一个代码，然后可以将其与其他代码（或其他单词）进行比较，以检查他们是否（可能）发音相同
 - [js-md2](https://gitee.com/openharmony-tpc/openharmony_tpc_samples/tree/master/js-md2Demo) -- JavaScript的简单MD2哈希函数支持UTF-8编码
 - [zxing-text-encoding](https://gitee.com/openharmony-tpc/openharmony_tpc_samples/tree/master/zxing-text-encodingDemo) -- 应用开发时使用OHPM维护和管理三方库。
 - [lz4js](https://gitee.com/openharmony-tpc/openharmony_tpc_samples/tree/master/lz4jsDemo) -- lz4js提供lz4格式压缩解压码功能
@@ -117,7 +117,7 @@
 ### 图像视频
 
 - [apache commons imaging](http://commons.apache.org/proper/commons-imaging/) -- 提供了读取和写入多种图像格式的功能。
-- [videoCompressor](https://github.com/fishwjy/VideoCompressor) -- 使用硬件解码和编码API（MediaCodec）的Android高性能视频压缩器 
+- [videoCompressor](https://github.com/fishwjy/VideoCompressor) --  [**已由仓颉库团队认领**]使用硬件解码和编码API（MediaCodec）的Android高性能视频压缩器 
 - [lena](https://github.com/davidsonfellipe/lena.js) -- 滤镜图像处理库
 - [xmlgraphics-batik](https://github.com/apache/xmlgraphics-batik) -- batik项目用于处理可缩放矢量图形（SVG）格式的图像，例如显示、生成、解析或者操作图像。
 - [APNG](https://github.com/penfeizhou/APNG4Android) -- 唯品会使用APNG格式动画展示启动页动画、商品动画，OH本身不支持APNG格式的图片编解码，需要三方库实现APNG格式图片加载显示。iOS和Android均使用对应的三方库实现。
@@ -140,7 +140,7 @@
 - [stun-server](https://github.com/enobufs/stun) -- 基于STUN协议的服务开源组件，可获取客户端所在的NAT分配的外部IP地址和端口号
 - [eventsource](https://github.com/EventSource/eventsource) -- eventsource三方库是EventSource客户端的纯JavaScript实现。它提供了一种在客户端与服务器之间建立单向持续连接的机制，服务器可以使用这个连接向客户端发送事件更新，而客户端能够实时接收并处理这些更新。
 - [FtpServer](NA) -- 支持苹果设备传输文件到单框架手机
-- [smack](https://github.com/igniterealtime/Smack) -- 开源、高度模块化、易于使用的XMPP客户端库，让开发者可以开发XMPP协议的即时通讯客户端
+- [smack](https://github.com/igniterealtime/Smack) --  [**已由仓颉库团队认领**]开源、高度模块化、易于使用的XMPP客户端库，让开发者可以开发XMPP协议的即时通讯客户端
 - [Rocket.Chat.ohos](https://github.com/RocketChat/Rocket.Chat) --  Application interface for server methods and message stream subscriptions.Using this package third party apps can control and query a Rocket.Chat server instance,via REST and Realtime(Websocket) API's.<br/>Designed especially for chat automation, this library makes it easy for application developers to provide the best solutions and experience for their community.via REST and Realtime(Websocket) API's.<br/>Designed especially for chat automation, this library makes it easy for application developers to provide the best solutions and experience for their community.
 
 ### 其他
