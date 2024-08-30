@@ -94,7 +94,7 @@
 - [apachejakartacommonsvalida](https://commons.apache.org/proper/commons-validator/<br/>https://github.com/apache/commons-validator) -- Apache Commons Validator为客户端验证和服务器端数据验证提供了构建块。
 - [mime](https://www.npmjs.com/package/mime) -- 全面的MIME类型集
 - [checksum](https://github.com/dshaw/checksum) -- 计算散列函数的组件，如sha1，MD5等
-- [is-webp](https://github.com/sindresorhus/is-webp) -- 判断是否是webp的库
+- [is-webp](https://github.com/sindresorhus/is-webp) -- 【已由[软通动力]()/[@ZIYAN137](https://gitcode.com/ZIYAN137)认领】判断是否是webp的库
 - [jmustache](https://github.com/samskivert/jmustache) -- jmustache是一个Java的Mustache模板引擎实现，它是Mustache规范的一个Java实现。Mustache是一个轻量级的模板引擎，它的语法简单易懂，易于学习和使用，被广泛应用于Web应用程序和其它领域。
 - [json-schema-validator](https://github.com/box-metadata/json-schema-validator) -- 基于 JSON Schema规范，验证Json数据结构的库。
 - [protobuf-format](https://github.com/bivas/protobuf-java-format) -- 基于Google的protobufMessage提供不同格式的序列化和反序列化。允许将默认（字节数组）输出覆盖为基于文本的格式，例如XML、JSON和HTML。
