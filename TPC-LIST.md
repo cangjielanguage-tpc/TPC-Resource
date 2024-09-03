@@ -117,7 +117,7 @@
 ### 图像视频
 
 - [apache commons imaging](http://commons.apache.org/proper/commons-imaging/) -- 提供了读取和写入多种图像格式的功能。
-- [videoCompressor](https://github.com/fishwjy/VideoCompressor) --  [**已由仓颉库团队认领**]使用硬件解码和编码API（MediaCodec）的Android高性能视频压缩器 
+- [videoCompressor](https://github.com/fishwjy/VideoCompressor) --  【**已由仓颉库团队认领**】使用硬件解码和编码API（MediaCodec）的Android高性能视频压缩器 
 - [lena](https://github.com/davidsonfellipe/lena.js) -- 滤镜图像处理库
 - [xmlgraphics-batik](https://github.com/apache/xmlgraphics-batik) -- batik项目用于处理可缩放矢量图形（SVG）格式的图像，例如显示、生成、解析或者操作图像。
 - [APNG](https://github.com/penfeizhou/APNG4Android) -- 唯品会使用APNG格式动画展示启动页动画、商品动画，OH本身不支持APNG格式的图片编解码，需要三方库实现APNG格式图片加载显示。iOS和Android均使用对应的三方库实现。
