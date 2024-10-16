@@ -89,7 +89,7 @@
 - [androidutilcode](https://github.com/iknow4/Android-utils) -- 安卓工具类库
 - [leven](https://github.com/sindresorhus/leven) -- 【**已由东北大学[@Chemxy](https://gitcode.com/Chemxy)认领**】使用Levenshtein距离算法测量两个字符串之间的差异
 - [dd-plist](https://github.com/3breadt/dd-plist) -- plist文件解析库
-- [Easyrelpace](https://github.com/codsen/codsen<br/>https://github.com/sindresorhus/leven) -- 字符串对比替换
+- [Easyrelpace](https://github.com/codsen/codsen<br/>https://github.com/sindresorhus/leven) -- 【已由仓颉库团队认领】字符串对比替换
 - [is-png](https://github.com/sindresorhus/is-png) -- 【**已由东北大学[@PermissionDog](https://gitcode.com/permissiondog)认领**】判断是否是png格式文件的库
 - [apachejakartacommonsvalida](https://commons.apache.org/proper/commons-validator/<br/>https://github.com/apache/commons-validator) -- Apache Commons Validator为客户端验证和服务器端数据验证提供了构建块。
 - [mime](https://www.npmjs.com/package/mime) -- 全面的MIME类型集
