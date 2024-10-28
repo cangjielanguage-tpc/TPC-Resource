@@ -42,10 +42,11 @@ Cangjie-TPC 社区将在5个工作日内进行评审，评审结果将以邮件�
 
 签署 CLA 协议后，Cangjie-TPC 社区将在5个工作日内创建项目，并邀请您加入项目
 
-+ 如果您申请的项目在当前TPC组织规划内，TPC社区将邀请您在Cangjie-TPC组织下建仓
-+ 如果您申请的项目暂时不在TPC组织规划内，TPC社区将邀请您在Cangjie-SIG组织内建仓
++ 您的项目将首先以孵化状态加入Cangjie-SIG组织
++ 若您的项目隶属于三方库招募列表，则将基于项目质量及社区开源规则进行项目审查，通过后在Cangjie-TPC组织中公开
++ 若您的项目暂时不符合上述条件，则将视情况在Cangjie-SIG中公开、继续孵化或转入Cangjie-Retired组织
 
-[Cangjie-TPC组织](https://gitcode.com/Cangjie-TPC)和[Cangjie-SIG组织](https://gitcode.com/Cangjie-SIG)同属Cangjie-TPC社区管辖
+[Cangjie-TPC组织](https://gitcode.com/Cangjie-TPC)、[Cangjie-SIG组织](https://gitcode.com/Cangjie-SIG)和[Cangjie-Retired组织](https://gitcode.com/Cangjie-Retired)同属Cangjie-TPC社区管辖
 
 #### STEP 6 准出毕业
 
