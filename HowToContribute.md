@@ -22,7 +22,7 @@ Cangjie-TPC 是 Cangjie 社区用于汇集基于仓颉编程语言开发的开�
 
 请点击下方链接，[下载项目创建申请 email 模版](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/%E3%80%90Cangjie-TPC%E7%A4%BE%E5%8C%BA%E3%80%91%E9%A1%B9%E7%9B%AE%E5%88%9B%E5%BB%BA%E7%94%B3%E8%AF%B7.docx)，按照模版，详尽填写信息（如果创建项目申请 email 不够详细，社区不会通过该申请），并向 `cangjie@huawei.com` 发送该邮件
 
-注意：邮件附件必须包括项目初始化内容（包含README，LICENSE，CHANGELOG，cjpm.toml），点击下方链接，[下载项目初始化模版](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/project-template.zip)，请以`项目名称.zip`方式返回
+注意：邮件附件必须包括项目初始化内容（包含README，LICENSE，CHANGELOG，cjpm.toml），点击下方链接，[下载项目初始化模版](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/template.zip)，请以`项目名称.zip`方式返回
 
 #### STEP 3 Cangjie-TPC 组织评审
 
