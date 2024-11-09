@@ -138,8 +138,8 @@
 - [flexSearch4cj](https://gitcode.com/Cangjie-TPC/flexSearch4cj/overview) —— 快速、零依赖的全文搜索库。在原始搜索速度方面，FlexSearch 优于每一个搜索库，并提供灵活的搜索功能，如多字段搜索，语音转换或部分匹配。根据使用的选项，它还提供最高内存效率的索引。适用于 OHOS 系统。
 - [memorycache](https://gitcode.com/Cangjie-TPC/memorycache/overview) —— 内存缓存库，支持基于的 lru 本地缓存读写和内存缓存。
 - [metaphone-cj](https://gitcode.com/yishengTH/metaphone-cj/overview) —— Metaphone 是一种语音算法，由 Lawrence Philips 于 1990 年发布，用于根据英语发音对单词进行索引。
-- [leven-cj](https://gitcode.com/Chemxy/leven-cj/overview) —— 使用 Levenshtein 距离算法测量两个字符串之间的差异。
-- [hibase32-cj](https://gitcode.com/Moem/hibase32cj/overview) —— Base32(RFC 4648) 编码/解码库。
+- [leven4cj](https://gitcode.com/Cangjie-TPC/leven4cj/overview) —— 使用 Levenshtein 距离算法测量两个字符串之间的差异。
+- [hibase32-cj](https://gitcode.com/Cangjie-TPC/hibase32-cj/overview) —— Base32(RFC 4648) 编码/解码库。
 
 [返回目录](#目录)
 
