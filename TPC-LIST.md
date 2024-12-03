@@ -59,7 +59,7 @@
 - [ohos_easyUI]() -- 补充了多个OH在即时通讯领域的第三方组件，形成了一套完整的通讯类组件框架，丰富了OH在即时通讯领域的能力。
 - [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) -- 开源表情键盘解决方案。
 - [Vap](https://github.com/Tencent/vap) -- VAP（VideoAnimationPlayer）是企鹅电竞开发，用于播放酷炫动画的实现方案。
- --  [libpag开源库鸿蒙化移植适配](https://github.com/Tencent/libpag/) -- 动画AE源文件缺失，无法导出lottie格式动画，希望支持libpag
+-  [libpag开源库鸿蒙化移植适配](https://github.com/Tencent/libpag/) -- 动画AE源文件缺失，无法导出lottie格式动画，希望支持libpag
 
 
 ### 安全认证
@@ -83,7 +83,7 @@
 - [epublib](https://github.com/psiegman/epublib) -- 读取/写入epub格式文件的核心实现并提供一组epub工具
 - [ohos_mail](https://github.com/eclipse-ee4j/mail) -- 检测并解析MIME格式的电子邮件消息流，并构建电子邮件消息的组件合集
 - [apacheavro](https://github.com/apache/avro) -- Avro是一个数据序列化的系统，可以将数据结构或对象转化成便于存储或传输的格式，适合于远程或本地大规模数据的存储和交换
-- [class-transformer](https://github.com/typestack/class-transformer) -- 【**已由仓颉库团队认领**】对象和类之间基于修饰符的转换、序列化和反序列化
+- [class-transformer](https://github.com/typestack/class-transformer) -- 对象和类之间基于修饰符的转换、序列化和反序列化
 - [msgpack-java](https://github.com/msgpack/msgpack-java) -- 【**已由湖南文理学院[@Yesokim](https://gitcode.com/weixin_64400442)认领**】MessagePack是一种高效的二进制序列化格式。它允许你像JSON一样在多种语言之间交换数据。但它更快更小。小整数被编码成一个字节，典型的短字符串除了字符串本身只需要一个额外的字节。
 - [compare-versions](https://www.npmjs.com/package/compare-versions) -- 【**已由[@nutuml](https://gitcode.com/nutuml)认领**】比较版本号
 - [androidutilcode](https://github.com/iknow4/Android-utils) -- 安卓工具类库
@@ -98,7 +98,7 @@
 - [jmustache](https://github.com/samskivert/jmustache) -- jmustache是一个Java的Mustache模板引擎实现，它是Mustache规范的一个Java实现。Mustache是一个轻量级的模板引擎，它的语法简单易懂，易于学习和使用，被广泛应用于Web应用程序和其它领域。
 - [json-schema-validator](https://github.com/box-metadata/json-schema-validator) -- 【**已由仓颉库团队认领**】基于 JSON Schema规范，验证Json数据结构的库。
 - [protobuf-format](https://github.com/bivas/protobuf-java-format) -- 【**已由仓颉库团队认领**】基于Google的protobufMessage提供不同格式的序列化和反序列化。允许将默认（字节数组）输出覆盖为基于文本的格式，例如XML、JSON和HTML。
-- [soundex-code](https://github.com/words/soundex-code) -- 这个包公开了一个语音算法。这意味着它得到一个特定的字符串（通常是人名），并将其转换成代码，然后可以将其与其他代码（其他名称）进行比较，以检查它们是否（可能）发音相
+- [soundex-code](https://github.com/words/soundex-code) -- 【**已由仓颉库团队认领**】这个包公开了一个语音算法。这意味着它得到一个特定的字符串（通常是人名），并将其转换成代码，然后可以将其与其他代码（其他名称）进行比较，以检查它们是否（可能）发音相
 - [caverphone](https://gitee.com/openharmony-tpc/openharmony_tpc_samples/tree/master/CaverPhone) -- 【**已由仓颉库团队认领**】CaverPhone算法(语音匹配算法)的JavaScript实现，规则为：将关键字转换为小写，移除不是a-z的字符，按照规则替换指定字符(如字符串起始、结束，文本中包含cq等)，在结尾放置6个1，返回前十个字符，具体参照CaverPhone算法规则。
 - [hi-base32](https://github.com/emn178/hi-base32/blob/master/src/base32.js) -- 【**已由东北大学[@Moem](https://gitcode.com/Moem)认领**】一个简单的Base32(RFC4648)编码/解码函数支持UTF-8编码
 - [metaphone](https://words.github.io/metaphone/) -- 【**已由兰州交通大学[@yishengTH](https://gitcode.com/yishengTH)认领**】语音算法，支持将一个特定的字符串（通常是一个英文单词），将其转化为一个代码，然后可以将其与其他代码（或其他单词）进行比较，以检查他们是否（可能）发音相同
@@ -111,7 +111,7 @@
 - [Blufi鸿蒙化](https://github.com/EspressifApp/EspBlufiForAndroid?tab=readme-ov-file) -- 用于智能设备的配网和管理，这些智能硬件都是ESP32Combo芯片，Bluefi就是针对该芯片的配方方案
 - [ohos-beacon-library](https://github.com/AltBeacon/android-beacon-library) -- 应用与蓝牙信标交互组件
 - [FastBle](https://github.com/Jasonchenlijian/FastBle) -- 蓝牙能力集成工具，支持过滤，扫描，链接，读取，写入
-- [mbassador](https://gitee.com/openharmony-sig/ohos-mbassador) -- 强大的事件总线，包含事件管理、强/弱引用，事件筛选等
+- [mbassador](https://gitee.com/openharmony-sig/ohos-mbassador) -- 【**已由仓颉库团队认领**】强大的事件总线，包含事件管理、强/弱引用，事件筛选等
 - [adler](https://developer.android.google.cn/reference/java/util/zip/Adler32.html) -- 【**已由仓颉库团队认领**】Adler32算法能力
 
 ### 图像视频
