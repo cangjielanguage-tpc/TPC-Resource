@@ -64,13 +64,13 @@
 
 ### 安全认证
 
-- [appauth](https://github.com/openid/AppAuth-Android) -- 用于与OAuth2.0和OpenIDConnect提供程序进行通信的Android客户端SDK。
+- [appauth](https://github.com/openid/AppAuth-Android) -- 【**已由仓颉库团队认领**】用于与OAuth2.0和OpenIDConnect提供程序进行通信的Android客户端SDK。
 - [token](https://github.com/corbel-platform/lib-token<br/>https://github.com/lydell/js-tokens) -- 【**已由仓颉库团队认领**】身份验证令牌库
 
 ### 编码解析
 
 - [htmlparser2](https://gitee.com/openharmony-tpc/openharmony_tpc_samples/tree/master/htmlparser2) -- htmlparser2是一个快速高效的HTML解析器,并用JavaScript语言实现了相关功能
-- [icu4j](https://github.com/unicode-org/icu/tree/main/icu4j) -- Unicode统一组件
+- [icu4j](https://github.com/unicode-org/icu/tree/main/icu4j) -- 【**已由仓颉库团队认领**】Unicode统一组件
 - [protobuf_format/xml_js](https://gitee.com/openharmony-tpc/protobuf) -- protobufjs主要功能是序列化和反序列化，更高效，序列化后的体积也很小.
 - [protobuf_format/sax](https://gitee.com/openharmony-tpc/protobuf) -- protobufjs主要功能是序列化和反序列化，更高效，序列化后的体积也很小.
 
@@ -120,8 +120,8 @@
 - [videoCompressor](https://github.com/fishwjy/VideoCompressor) --  【**已由仓颉库团队认领**】使用硬件解码和编码API（MediaCodec）的Android高性能视频压缩器 
 - [lena](https://github.com/davidsonfellipe/lena.js) -- 【**已由仓颉库团队认领**】滤镜图像处理库
 - [xmlgraphics-batik](https://github.com/apache/xmlgraphics-batik) -- batik项目用于处理可缩放矢量图形（SVG）格式的图像，例如显示、生成、解析或者操作图像。
-- [APNG](https://github.com/penfeizhou/APNG4Android) -- 唯品会使用APNG格式动画展示启动页动画、商品动画，OH本身不支持APNG格式的图片编解码，需要三方库实现APNG格式图片加载显示。iOS和Android均使用对应的三方库实现。
-- [metadata-extractor](https://github.com/drewnoakes/metadata-extractor) -- 用于从图像、视频和音频文件中提取Exif、IPTC、XMP、ICC和其他元数据的组件
+- [APNG](https://github.com/penfeizhou/APNG4Android) -- 【**已由仓颉库团队认领**】唯品会使用APNG格式动画展示启动页动画、商品动画，OH本身不支持APNG格式的图片编解码，需要三方库实现APNG格式图片加载显示。iOS和Android均使用对应的三方库实现。
+- [metadata-extractor](https://github.com/drewnoakes/metadata-extractor) -- 【**已由仓颉库团队认领**】用于从图像、视频和音频文件中提取Exif、IPTC、XMP、ICC和其他元数据的组件
 - [video_trimmer](https://github.com/iknow4/Android-Video-Trimmer) -- 【**已由仓颉库团队认领**】实现Android上使用ffmpeg进行视频裁剪，压缩功能。
 - [LargeImage](https://github.com/LuckyJayce/LargeImage) -- 【**已由仓颉库团队认领**】提供了在应用程序中管理大尺寸图片的功能。
 - [silicompressor](https://github.com/Tourenathan-G5organisation/SiliCompressor) -- 图像/视频压缩库
@@ -129,7 +129,7 @@
 
 ### 网络通信
 
-- [webrtc视频功能移植适配](https://github.com/webrtc) -- 1，适配相机数据获取；<br/>2，适配硬件编解码；
+- [webrtc视频功能移植适配](https://github.com/webrtc) -- 【**已由仓颉库团队认领**】1，适配相机数据获取；<br/>2，适配硬件编解码；
 - [WebRTC](https://github.com/webrtc<br/>AppRTC：https://github.com/webrtc/apprtc) -- WebReal-TimeCommunication(WebRTC)是一项允许网页浏览器进行音频、视频以及数据实时通信的技术，它基于网页浏览器，不需要安装额外插件或软件。<br/><br/>该库提供的功能和平台关联性很大，预计需要在鸿蒙适配的WebRtc版本上二次开发<br/>
 - [smbj](https://github.com/hierynomus/smbj) -- 主要用于计算机间共享文件，支持安全保护，访问共享目录、打开文件、读写文件等
 - [coap](https://gitee.com/openharmony-tpc/ohos_coap) -- libcoap是Coap协议的C语言实现，它是使用Coap协议的工具。ohos_coap是基于libcoapv4.3.1版本，封装napi接口，给上层ts提供coap通信能力的三方库
