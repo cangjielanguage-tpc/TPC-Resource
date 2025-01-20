@@ -36,6 +36,7 @@
 - [rpc4cj](https://gitcode.com/Cangjie-TPC/rpc4cj/overview) —— 高性能、开源和通用的 RPC 框架，基于 ProtoBuf(Protocol Buffers) 序列化协议开发，并且支持众多开发语言。面向服务端和移动端，基于 HTTP/2 设计，带来诸如双向流、流控、头部压缩、单 TCP 连接上的多复用请求等特。这些特性使得其在移动设备上表现更好，更省电和节省空间占用。
 - [upload4cj](https://gitcode.com/Cangjie-TPC/upload4cj/overview) —— 用于处理浏览器或者其他客户端上传上来的单个或者多个文件的报文解析库。
 - [download4cj](https://gitcode.com/Cangjie-TPC/download4cj/overview) —— 文件下载库，提供同步下载、异步下载、暂停任务。
+- [xmpp4cj](https://gitcode.com/Cangjie-TPC/xmpp4cj) —— 开放的即时通讯协议，常用于构建实时通讯应用，如：企业内部通讯系统、多人在线游戏、社交网络等。通过使用 XMPP ,可以方便地实现消息的发送、接收、在线状态管理等功能。
 
 [返回目录](#目录)
 
@@ -105,6 +106,10 @@
 - [oauth4cj](https://gitcode.com/Cangjie-TPC/oauth4cj/overview) —— OAuth 开放授权协议库，支持协议 OAuth1.0 和 OAuth2.0，允许第三方程序通过访问令牌访问受保护的资源，而无需暴露用户的凭据。支持授权码模式，简化模式，密码模式，客户端模式四种模式。
 - [pkcs4cj](https://gitcode.com/Cangjie-TPC/pkcs4cj/overview) —— 提供 PKCS12 证书的生成、解析功能。
 - [pbkdf2](https://gitcode.com/Cangjie-TPC/pbkdf2/overview) —— 基于 OPENSSL 实现的，用于生成 PBKDF2 密钥的工具。
+- [checksum4cj](https://gitcode.com/Cangjie-TPC/checksum4cj) —— 计算散列函数的库，支持多种校验和算法，如 SHA1，MD5 等。
+- [sha1-cj](https://gitcode.com/Cangjie-TPC/sha1-cj) —— 密码散列函数，用于生成数据的固定长度散列值。
+- [md5-cj](https://gitcode.com/Cangjie-TPC/md5-cj) —— 用于计算消息摘要的密码散列函数库，可以将任意长度的字符串转换成一个 128 位（16字节）的散列值。
+- [sha256-cj](https://gitcode.com/Cangjie-TPC/sha256-cj) —— 密码散列函数，支持使用 UTF-8 编码计算生成数据的 256位（32 字节）散列值。
 
 [返回目录](#目录)
 
@@ -122,6 +127,9 @@
 - [pinyin4cj](https://gitcode.com/Cangjie-TPC/pinyin4cj/overview) —— 用于将汉字转为拼音，支持词、句转换成拼音，简体/繁体中文字符转换成拼音，多音字符转换成拼音，简体、繁体中文字符互转，支持添加自定义字典，支持 Unicode 格式的字符 ü、支持声调符号、支持首字母格式。
 - [is-png-cj](https://gitcode.com/Cangjie-TPC/is-png-cj/overview) —— 一个判断图片格式的库，根据图片的文件数据，判断图片是否为 png 格式。
 - [is-webp-cj](https://gitcode.com/Cangjie-TPC/is-webp-cj/overview) —— 一款根据文件数据，判断图片是否是 webp 格式的库。
+- [fast-compress-cj](https://gitcode.com/Cangjie-TPC/fast-compress-cj) —— 支持 snappyy 算法压缩解压、流式压缩解压、帧流式压缩解压。
+- [compare-versions-cj](https://gitcode.com/Cangjie-TPC/compare-versions-cj) —— 版本对比工具，支持版本号验证、版本号排序、版本号范围识别。
+- [video-compress-cj](https://gitcode.com/Cangjie-TPC/video-compress-cj) —— 高性能的视频压缩三方库，支持高、中、低三种质量压缩。支持 mp4、mpeg.ts 视频的解封装格式、支持 AVC(H.264)、 HEVC(H.265) 视频解码格式、支持 AAC 音视频解码格式、支持 AVC(H.264)、 HEVC(H.265) 视频编码格式、支持 AAC 音频编码格式、支持 mp4 封装格式。
 
 [返回目录](#目录)
 
@@ -140,6 +148,10 @@
 - [metaphone-cj](https://gitcode.com/yishengTH/metaphone-cj/overview) —— Metaphone 是一种语音算法，由 Lawrence Philips 于 1990 年发布，用于根据英语发音对单词进行索引。
 - [leven4cj](https://gitcode.com/Cangjie-TPC/leven4cj/overview) —— 使用 Levenshtein 距离算法测量两个字符串之间的差异。
 - [hibase32-cj](https://gitcode.com/Cangjie-TPC/hibase32-cj/overview) —— Base32(RFC 4648) 编码/解码库。
+- [image-filters-cj](https://gitcode.com/Cangjie-TPC/image-filters-cj) —— 对图片添加滤波器的图像处理库，支持 Invert、Contrast、Mirror、Brightness、Thresholding 等多种滤镜格式。
+- [adler4cj](https://gitcode.com/Cangjie-TPC/adler4cj) —— 用于计算数据校验的算法库，实现了 Adler-32 校验和算法，支持多种数据类型校验和计算。该算法由 Mark Adler 创建，相比 CRC32 具有更快的计算速度，被广泛应用于数据完整性校验、网络传输和压缩文件格式（如 zlib）中。
+- [easy-relpace-cj](https://gitcode.com/Cangjie-TPC/easy-relpace-cj) —— 用于非正则字符串替换的算法库。支持字符串替换、字符串替换区间的选择。
+- [caverphone4cj](https://gitcode.com/Cangjie-TPC/caverphone4cj) —— 用于比较英文单词发音相似度的算法库。
 
 [返回目录](#目录)
 
@@ -148,6 +160,7 @@
 - [mp4parser4cj](https://gitcode.com/Cangjie-TPC/mp4parser4cj/overview) —— 读取、写入 mp4 格式音视频文件编辑的工具，包括音视频合成、裁剪、批量合成。
 - [mp3tag4cj](https://gitcode.com/Cangjie-TPC/mp3tag4cj/overview) —— 用于读取、写入、添加和删除 ID3v1、ID3v2 标签。标签表示内容支持 ISO-8859-1，UTF-16LE，UTF-16BE，UTF-8 4种编码； 读取音频数据帧帧头包含的数据信息；判断 VBR 文件，获得每个音频数据帧的位率；在音频数据帧结尾和 ID3v1 标记之间添加或删除自定义标签。
 - [ijkplayer-ffi](https://gitcode.com/Cangjie-TPC/ijkplayer-ffi/overview) —— 基于 FFmpeg 的视频播放器，包括视频播放、暂停、停止、重置、释放、前进、后退、倍数播放、循环播放、设置音量、屏幕常亮等。适用于 OHOS 系统。
+- [videocache4cj](https://gitcode.com/Cangjie-TPC/videocache4cj) —— 边播放边缓存的库，支持自定义设置缓存文件夹位置、设置最大缓存数据清理策略、添加请求头、使用自定义的缓存文件命名规则、注册/取消缓存进度监听器、设置自定义的缓存文件清理规则。
  
 [返回目录](#目录)
 
@@ -163,6 +176,10 @@
 - [droplet](https://gitcode.com/Cangjie-TPC/droplet/overview) —— 图像加载缓存库，致力于更高效、更轻便、更简单得加载图片。在图片列表滚动时候实现平滑滚动得效果。适用于 OHOS 系统。
 - [qrcode4cj](https://gitcode.com/Cangjie-TPC/qrcode4cj/overview) —— 解析/生成多种类型的一维码/二维码，包括 QRCode、Data Matrix、PDF417 barcode、Aztec barcode、CodeBar、Code128、Code39、Code93、EAN13、EAN8、ITF、UPC-A、UPC-E、UPC/EAN、MaxiCode、RSS barcode(RSS-14、RSS-Expanded)。
 - [droplet-transformations](https://gitcode.com/Cangjie-TPC/droplet-transformations/overview) —— 图像转换库,提供了 高亮，滤镜，灰度， 虚幻， 马赛克， 漫画，像素，素描，漩涡， 油画， 暗边， 模糊等图像转换能力。适用于 OHOS 系统。
+- [svg4cj](https://gitcode.com/Cangjie-TPC/svg4cj) —— SVG 图片的解析器和渲染器，能够渲染大多数标准的 SVG 图像，性能好、内存占用低。
+- [photoview4cj](https://gitcode.com/Cangjie-TPC/photoview4cj) —— 支持图片缩放、平移、旋转的浏览组件。
+- [rounded-image-view-cj](https://gitcode.com/Cangjie-TPC/rounded-image-view-cj) —— 实现图片的圆角显示效果的图片控件。支持多种缩放类型、多种背景平铺类型、多种样式效果、支持多种图片资源数据绘制。
+- [circle-image-view-cj](https://gitcode.com/Cangjie-TPC/circle-image-view-cj) —— 图片处理库，可以将图片裁剪为圆形或者给图片设置边框。
 
 [返回目录](#目录)
 
@@ -182,6 +199,8 @@
 - [lottie4cj](https://gitcode.com/Cangjie-TPC/lottie4cj/overview) —— 基于 Json 的动画库。它可以解析 Adobe After Effects 软件通过 Bodymovin 插件导出的 Json格式的动画，并在移动设备上进行本地渲染。支持动画播放/暂停/停止，设置播放速度，设置动画播放方向。适用于 OHOS 系统。
 - [rebound4cj](https://gitcode.com/Cangjie-TPC/rebound4cj/overview) —— 模拟弹簧动力学，实现弹簧动画效果。适用于 OHOS 系统。
 - [shimmer4cj](https://gitcode.com/Cangjie-TPC/shimmer4cj/overview) —— 一个简单灵活的为应用视图添加闪烁效果的库，主要有由左到右倾斜，由左到右竖直，由左到右圆形，由上到下水平等闪光效果。适用于 OHOS 系统。
+- [banner4cj](https://gitcode.com/Cangjie-TPC/banner4cj) —— 广告图片自动轮播、无限轮播、垂直轮播的组件库。
+- [easing-functions-cj](https://gitcode.com/Cangjie-TPC/easing-functions-cj) —— 动画效果库，该库的函数曲线可用于控制动画对象实现特定的运动轨迹。支持 BackEaseIn 、BackEaseOut 、ExpoEaseOut、SineEaseIn 、SineEaseOut 等多种动画效果。
 
 [返回目录](#目录)
 
@@ -201,6 +220,15 @@
 ### <a id="ui类"></a>UI类
 
 - [roundedImageView4cj](https://gitcode.com/Cangjie-TPC/roundedImageView4cj/overview) —— 支持圆角（和椭圆或圆形）的快速 ImageView。适用于 OHOS 系统。
+- [refresh-layout-cj](https://gitcode.com/Cangjie-TPC/refresh-layout-cj) —— 支持设置动画的下拉刷新和上拉加载组件。支持设置内置动画的各种属性、自定义动画等。
+- [list-view-cj](https://gitcode.com/Cangjie-TPC/list-view-cj) —— 为 List 组件创建多种条目类型的 UI 组件库。支持设置组件基础属性、排列方向、列表间距、滑动效果、链式联动效果等。
+- [text-layout-cj](https://gitcode.com/Cangjie-TPC/text-layout-cj) —— 可定制多种样式的文本构建工具，包括字体间距、大小、颜色、布局方式、富文本高亮显示等。
+- [swipe-layout-cj](https://gitcode.com/Cangjie-TPC/swipe-layout-cj) —— 用于设置屏幕顶部、底部、左侧和右侧的滑动布局的组件。
+- [wheel-picker-cj](https://gitcode.com/Cangjie-TPC/wheel-picker-cj) —— 多种选择器，包括时间选择器、地区选择器的三级联动、年、月、日选择器、自定义选择器。支持设置选择器多种样式，包括：文本样式、幕布样式、数据项间隔等。
+- [swipe-item-cj](https://gitcode.com/Cangjie-TPC/swipe-item-cj) —— 支持左侧和右侧的滑动布局的组件库。
+- [newbie-guide-cj](https://gitcode.com/Cangjie-TPC/newbie-guide-cj) —— 高亮型新手引导组件，通过高亮区域与蒙版背景的明暗度对比，使用户快速锁定重点功能，快速掌握应用基本使用方法。
+- [gv-code-cj](https://gitcode.com/Cangjie-TPC/gv-code-cj) —— 带干扰线和干扰点的字母数字验证码组件。用于验证用户身份的安全机制，可以有效防止自动化脚本（如网络爬虫）的恶意攻击，提高网站的安全性。
+- [autofit-textview-cj](https://gitcode.com/Cangjie-TPC/autofit-textview-cj) —— 能根据占用空间自动调整字体大小的 TextView 组件库，可以自动调整文字以完美贴合显示边界 。
 
 [返回目录](#目录)
 
