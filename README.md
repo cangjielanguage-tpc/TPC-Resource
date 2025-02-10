@@ -244,7 +244,7 @@
   
   ### <a name="编程框架"></a>编程框架
 
-- [microsevice](https://gitcode.com/Cangjie-TPC/microsevice/overview) —— 仓颉语言实现的快速微服务开发框架。支持注册发现、远程过程调用、http协议、json协议、零侵入业务代码，实现自动装配、手动装配、自定义网络库装配3种模式。
+- [microsevice](https://gitcode.com/Cangjie-TPC/microsevice/overview) —— 仓颉语言实现的快速微服务开发框架。支持注册发现、远程过程调用、http协议、json协议、零侵入业务代码，实现自动装配、手动装配、自定义网络库装配3种模式。感谢上海赛可出行科技服务有限公司架构团队为仓颉编程语言 TPC 社区做出的贡献！
 - [CJQT](https://gitcode.com/Cangjie-TPC/CJQT/overview) —— Qt是一个跨平台的C++图形用户界面应用程序开发框架。CJQT是基于仓颉语言对QT进行封装的三方库，侧重QT的widgets封装。目标为使用CJQT可以实现用户界面交互。感谢上海双洪信息技术有限公司为仓颉编程语言 TPC 社区做出的贡献！
 
 [返回目录](#目录)
