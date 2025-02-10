@@ -26,6 +26,10 @@
     - [地理信息](#地理信息)
     - [UI类](#ui类)
     - [科学计算](#科学计算)
+    - [编程框架](#编程框架)
+    - [数据监控](#数据监控)
+    - [熔断降级](#熔断降级)
+    - [消息队列](#消息队列)
     
 ## <a name="三方组件"></a>三方组件
 
@@ -235,6 +239,31 @@
 ### <a name="科学计算"></a>科学计算
 
 - [matrix4cj](https://gitcode.com/Cangjie-TPC/matrix4cj/overview) —— 线性代数库，用于构造和操作密集矩阵。
+
+[返回目录](#目录)
+  
+  ### <a name="编程框架"></a>编程框架
+
+- [microsevice](https://gitcode.com/Cangjie-TPC/microsevice/overview) —— 仓颉语言实现的快速微服务开发框架。支持注册发现、远程过程调用、http协议、json协议、零侵入业务代码，实现自动装配、手动装配、自定义网络库装配3种模式。
+- [CJQT](https://gitcode.com/Cangjie-TPC/CJQT/overview) —— Qt是一个跨平台的C++图形用户界面应用程序开发框架。CJQT是基于仓颉语言对QT进行封装的三方库，侧重QT的widgets封装。目标为使用CJQT可以实现用户界面交互。感谢上海双洪信息技术有限公司为仓颉编程语言 TPC 社区做出的贡献！
+
+[返回目录](#目录)
+  
+  ### <a name="数据监控"></a>数据监控
+
+- [apm_sdk](https://gitcode.com/Cangjie-TPC/apm_sdk/overview) —— 仓颉APM 遵循OTel API规范完成了Metrics 、Tracing数据模型定义，基于OTel SDK规范实现Metrics、Traces等数据的采集。感谢北京宝兰德软件股份有限公司中间件团队为仓颉编程语言 TPC 社区做出的贡献！
+
+[返回目录](#目录)
+  
+  ### <a name="熔断降级"></a>熔断降级
+
+- [hystrix-cj](https://gitcode.com/Cangjie-TPC/hystrix-cj/overview) —— 仓颉熔断降级框架。支持以并发数、TPS、平均响应时间、一段时间内的异常数作为判断指标，作熔断或降级操作。感谢北京宝兰德软件股份有限公司中间件团队为仓颉编程语言 TPC 社区做出的贡献！
+
+[返回目录](#目录)
+  
+  ### <a name="消息队列"></a>消息队列
+
+- [activemq4cj](https://gitcode.com/Cangjie-TPC/activemq4cj/overview) —— ActiveMQ仓颉语言客户端 SDK，兼容 JMS 规范接口语义，支持 OpenWire 协议，支持点对点与发布/订阅两种消息模型，支持事务消息和失效转移机制。感谢北京宝兰德软件股份有限公司中间件团队为仓颉编程语言 TPC 社区做出的贡献！
 
 [返回目录](#目录)
 
