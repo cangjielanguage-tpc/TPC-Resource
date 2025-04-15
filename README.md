@@ -134,6 +134,7 @@
 - [fast-compress-cj](https://gitcode.com/Cangjie-TPC/fast-compress-cj) —— 支持 snappyy 算法压缩解压、流式压缩解压、帧流式压缩解压。
 - [compare-versions-cj](https://gitcode.com/Cangjie-TPC/compare-versions-cj) —— 版本对比工具，支持版本号验证、版本号排序、版本号范围识别。
 - [video-compress-cj](https://gitcode.com/Cangjie-TPC/video-compress-cj) —— 高性能的视频压缩三方库，支持高、中、低三种质量压缩。支持 mp4、mpeg.ts 视频的解封装格式、支持 AVC(H.264)、 HEVC(H.265) 视频解码格式、支持 AAC 音视频解码格式、支持 AVC(H.264)、 HEVC(H.265) 视频编码格式、支持 AAC 音频编码格式、支持 mp4 封装格式。
+- [cjbind](https://gitcode.com/Cangjie-TPC/cjbind) —— 自动生成仓颉到 C 库的 FFI 绑定代码
 
 [返回目录](#目录)
 
