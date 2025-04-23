@@ -59,8 +59,8 @@
 描述具体的编译过程：
 
 ```shell
-cpm update
-cpm build
+cjpm update
+cjpm build
 ```
 
 ### 功能示例
