@@ -41,6 +41,7 @@
 - [upload4cj](https://gitcode.com/Cangjie-TPC/upload4cj/overview) —— 用于处理浏览器或者其他客户端上传上来的单个或者多个文件的报文解析库。
 - [download4cj](https://gitcode.com/Cangjie-TPC/download4cj/overview) —— 文件下载库，提供同步下载、异步下载、暂停任务。
 - [xmpp4cj](https://gitcode.com/Cangjie-TPC/xmpp4cj) —— 开放的即时通讯协议，常用于构建实时通讯应用，如：企业内部通讯系统、多人在线游戏、社交网络等。通过使用 XMPP ,可以方便地实现消息的发送、接收、在线状态管理等功能。
+- [ntp4cj](https://gitcode.com/Cangjie-TPC/ntp4cj) —— 遵循 NTP 协议，从 NTP 服务器获取精确的网络时间。支持自定义 NTP 服务器配置、支持超时控制和错误处理、支持标准 NTP 时间戳解析。
 
 [返回目录](#目录)
 
@@ -114,6 +115,7 @@
 - [sha1-cj](https://gitcode.com/Cangjie-TPC/sha1-cj) —— 密码散列函数，用于生成数据的固定长度散列值。
 - [md5-cj](https://gitcode.com/Cangjie-TPC/md5-cj) —— 用于计算消息摘要的密码散列函数库，可以将任意长度的字符串转换成一个 128 位（16字节）的散列值。
 - [sha256-cj](https://gitcode.com/Cangjie-TPC/sha256-cj) —— 密码散列函数，支持使用 UTF-8 编码计算生成数据的 256位（32 字节）散列值。
+- [md2-cj](https://gitcode.com/Cangjie-TPC/md2_cj) —— 消息摘要算法，支持字符串和文件的 MD2 消息摘要计算。
 
 [返回目录](#目录)
 
@@ -135,6 +137,11 @@
 - [compare-versions-cj](https://gitcode.com/Cangjie-TPC/compare-versions-cj) —— 版本对比工具，支持版本号验证、版本号排序、版本号范围识别。
 - [video-compress-cj](https://gitcode.com/Cangjie-TPC/video-compress-cj) —— 高性能的视频压缩三方库，支持高、中、低三种质量压缩。支持 mp4、mpeg.ts 视频的解封装格式、支持 AVC(H.264)、 HEVC(H.265) 视频解码格式、支持 AAC 音视频解码格式、支持 AVC(H.264)、 HEVC(H.265) 视频编码格式、支持 AAC 音频编码格式、支持 mp4 封装格式。
 - [cjbind](https://gitcode.com/Cangjie-TPC/cjbind) —— 将 C 头文件自动转换成仓颉 CFFI 声明文件，进一步提升 C 互操作开发效率。
+- [chat4cj](https://gitcode.com/Cangjie-TPC/chat4cj) —— 用于与 Rocket.Chat 服务器进行交互的 Cangjie 语言客户端库。它提供了完整的 REST API 封装，使开发者能够轻松地实现用户认证、频道管理、消息发送等功能。
+- [protobuf-format-cj](https://gitcode.com/Cangjie-TPC/protobuf-format-cj) —— 支持将 protobuf 数据序列化成 json、xml、html、chouchdb 格式。
+- [tar4cj](https://gitcode.com/Cangjie-TPC/tar4cj) —— tar 格式的压缩和解压缩三方库。
+- [fast-eventbus-cj](https://gitcode.com/Cangjie-TPC/fast-eventbus-cj) —— 发布/订阅事件总线，为多线程应用程序中的高吞吐量而优化的强大事件总线。支持同步和异步事件发布、事件过滤功能。
+- [msgpack4cj](https://gitcode.com/Cangjie-TPC/msgpack4cj) —— 基于 msgpack 序列化协议的仓颉实现。旨在为仓颉应用提供高效、紧凑的二进制数据交换格式。支持快速的数据序列化和反序列化操作，适用于需要高性能和低开销的数据传输场景。
 
 [返回目录](#目录)
 
@@ -185,6 +192,7 @@
 - [photoview4cj](https://gitcode.com/Cangjie-TPC/photoview4cj) —— 支持图片缩放、平移、旋转的浏览组件。
 - [rounded-image-view-cj](https://gitcode.com/Cangjie-TPC/rounded-image-view-cj) —— 实现图片的圆角显示效果的图片控件。支持多种缩放类型、多种背景平铺类型、多种样式效果、支持多种图片资源数据绘制。
 - [circle-image-view-cj](https://gitcode.com/Cangjie-TPC/circle-image-view-cj) —— 图片处理库，可以将图片裁剪为圆形或者给图片设置边框。
+- [large-image-cj](https://gitcode.com/Cangjie-TPC/large-image-cj) —— 支持加载图像、缩放图像、拖动图像、双击放大图像。
 
 [返回目录](#目录)
 
@@ -206,12 +214,15 @@
 - [shimmer4cj](https://gitcode.com/Cangjie-TPC/shimmer4cj/overview) —— 一个简单灵活的为应用视图添加闪烁效果的库，主要有由左到右倾斜，由左到右竖直，由左到右圆形，由上到下水平等闪光效果。适用于 OHOS 系统。
 - [banner4cj](https://gitcode.com/Cangjie-TPC/banner4cj) —— 广告图片自动轮播、无限轮播、垂直轮播的组件库。
 - [easing-functions-cj](https://gitcode.com/Cangjie-TPC/easing-functions-cj) —— 动画效果库，该库的函数曲线可用于控制动画对象实现特定的运动轨迹。支持 BackEaseIn 、BackEaseOut 、ExpoEaseOut、SineEaseIn 、SineEaseOut 等多种动画效果。
+- [apng4cj](https://gitcode.com/Cangjie-TPC/apng4cj) —— APNG 格式的动画展示，支持本地上传 apng 文件、解析并播放。用于启动页动画、商品动画等。
+- [svga-cj](https://gitcode.com/Cangjie-TPC/svga-cj) —— SVGA 格式的动画展示，支持动画播放、暂停、快进等功能。
 
 [返回目录](#目录)
 
 ### <a name="基础设施"></a>基础设施
 
 - [io4cj](https://gitcode.com/Cangjie-TPC/io4cj/overview) —— 是 HttpClient 的底层 IO 库，是对仓颉 IO 库的补充，使访问、存储和处理数据变得更加容易。核心概念是 Source 和 Sink，类似于仓颉的 InputStream 和 OutputStream。
+- [mime4cj](https://gitcode.com/Cangjie-TPC/mime4cj) —— MIME 格式解析库。
 
 [返回目录](#目录)
 
@@ -224,7 +235,6 @@
 
 ### <a id="ui类"></a>UI类
 
-- [roundedImageView4cj](https://gitcode.com/Cangjie-TPC/roundedImageView4cj/overview) —— 支持圆角（和椭圆或圆形）的快速 ImageView。适用于 OHOS 系统。
 - [refresh-layout-cj](https://gitcode.com/Cangjie-TPC/refresh-layout-cj) —— 支持设置动画的下拉刷新和上拉加载组件。支持设置内置动画的各种属性、自定义动画等。
 - [list-view-cj](https://gitcode.com/Cangjie-TPC/list-view-cj) —— 为 List 组件创建多种条目类型的 UI 组件库。支持设置组件基础属性、排列方向、列表间距、滑动效果、链式联动效果等。
 - [text-layout-cj](https://gitcode.com/Cangjie-TPC/text-layout-cj) —— 可定制多种样式的文本构建工具，包括字体间距、大小、颜色、布局方式、富文本高亮显示等。
@@ -234,6 +244,15 @@
 - [newbie-guide-cj](https://gitcode.com/Cangjie-TPC/newbie-guide-cj) —— 高亮型新手引导组件，通过高亮区域与蒙版背景的明暗度对比，使用户快速锁定重点功能，快速掌握应用基本使用方法。
 - [gv-code-cj](https://gitcode.com/Cangjie-TPC/gv-code-cj) —— 带干扰线和干扰点的字母数字验证码组件。用于验证用户身份的安全机制，可以有效防止自动化脚本（如网络爬虫）的恶意攻击，提高网站的安全性。
 - [autofit-textview-cj](https://gitcode.com/Cangjie-TPC/autofit-textview-cj) —— 能根据占用空间自动调整字体大小的 TextView 组件库，可以自动调整文字以完美贴合显示边界 。
+- [bullet-screen-cj](https://gitcode.com/Cangjie-TPC/bullet-screen-cj) —— 弹幕框架，支持发送纯文本弹幕、GIF 弹幕、特殊弹幕、设置弹幕在屏幕的显示区域、滚动方向、控制弹幕播放状态等功能。
+- [recyclerview-animators-cj](https://gitcode.com/Cangjie-TPC/recyclerview-animators-cj) —— 带有动画的回收器视图 UI 组件，支持淡入淡出、缩放、滑动等动画效果。
+- [overscroll-decor-cj](https://gitcode.com/Cangjie-TPC/overscroll-decor-cj) —— 滚动装饰器 UI 组件，支持 RecyclerView、ListView、GridView、ViewPager、ScrollView、HorizontalScrollView、Image 等视图的边缘滚动效果。
+- [progress-bar-cj](https://gitcode.com/Cangjie-TPC/progress-bar-cj) —— 自定义进度条显示效果的归一化组件。支持 Material 风格和 Smooth 风格的进度条展示。
+- [circle-indicator-cj](https://gitcode.com/Cangjie-TPC/circle-indicator-cj) —— 圆形指示器归一化组件，为 Tabs/Swiper 容器提供了多种自定义风格的指示器。支持圆形、长条、横幅、图标、携带中央视图的Tabs、固定位置 Tabs、胶囊风格固定位置 Tabs、携带角标固定位置 Tabs、可滑动 Tabs 等指示器功能。
+- [lyric-view-cj](https://gitcode.com/Cangjie-TPC/lyric-view-cj) —— 音乐播放器自动滚动歌词 UI 组件。
+- [amount-input-text-cj](https://gitcode.com/Cangjie-TPC/amount-input-text-cj) —— 金额输入组件，带有金融业专用版数字键盘。支持常用币种输入、支持键盘乱序、自定义标题等动态化配置。数据未进行网络传输及本地存储，所输入的内容不会被捕捉，相比于系统输入法，更加安全。
+- [floating-menu-cj](https://gitcode.com/Cangjie-TPC/floating-menu-cj) —— 悬浮菜单 UI 组件，高度可定制，支持标签、图标、水波纹、悬浮操作按钮和标签背景颜色设置等。
+- [easy-loading-cj](https://gitcode.com/Cangjie-TPC/easy-loading-cj) —— 支持各类加载效果的 UI 组件，提供 27 种动画加载效果以及 Toast 功能。
 
 [返回目录](#目录)
 
