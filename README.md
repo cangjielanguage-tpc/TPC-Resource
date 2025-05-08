@@ -107,7 +107,7 @@
 
 ### <a name="安全类"></a>安全类
 
-- [crypto4cj](https://gitcode.com/Cangjie-TPC/crypto4cj/overview) —— 安全的密码库，包括摘要算法、对称加密算法、非对称加密算法、密钥生成和签名验证。
+- [crypto-ffi](https://gitcode.com/Cangjie-TPC/crypto-ffi) —— 安全的密码库，包括摘要算法、对称加密算法、非对称加密算法、密钥生成和签名验证。
 - [oauth4cj](https://gitcode.com/Cangjie-TPC/oauth4cj/overview) —— OAuth 开放授权协议库，支持协议 OAuth1.0 和 OAuth2.0，允许第三方程序通过访问令牌访问受保护的资源，而无需暴露用户的凭据。支持授权码模式，简化模式，密码模式，客户端模式四种模式。
 - [pkcs4cj](https://gitcode.com/Cangjie-TPC/pkcs4cj/overview) —— 提供 PKCS12 证书的生成、解析功能。
 - [pbkdf2](https://gitcode.com/Cangjie-TPC/pbkdf2/overview) —— 基于 OPENSSL 实现的，用于生成 PBKDF2 密钥的工具。
