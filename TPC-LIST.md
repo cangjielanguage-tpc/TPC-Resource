@@ -58,8 +58,8 @@
 - [openharmony-iconfont-cli](https://github.com/iconfont-cli) -- 在openharmony框架中使用iconfont图标
 - [ohos_easyUI]() -- 补充了多个OH在即时通讯领域的第三方组件，形成了一套完整的通讯类组件框架，丰富了OH在即时通讯领域的能力。
 - [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) -- 开源表情键盘解决方案。
-- [Vap](https://github.com/Tencent/vap) -- VAP（VideoAnimationPlayer）是企鹅电竞开发，用于播放酷炫动画的实现方案。
--  [libpag开源库鸿蒙化移植适配](https://github.com/Tencent/libpag/) -- 动画AE源文件缺失，无法导出lottie格式动画，希望支持libpag
+- [Vap](https://github.com/Tencent/vap) -- 【**已由仓颉库团队认领**】VAP（VideoAnimationPlayer）是企鹅电竞开发，用于播放酷炫动画的实现方案。
+-  [libpag开源库鸿蒙化移植适配](https://github.com/Tencent/libpag/) -- 【**已由仓颉库团队认领**】动画AE源文件缺失，无法导出lottie格式动画，希望支持libpag
 
 
 ### 安全认证
@@ -77,11 +77,11 @@
 
 ### 工具类
 
-- [jbox2d](https://github.com/jbox2d/jbox2d) -- 一个2D的Java物理引擎，C++物理引擎Box2D和LiquidFun的原生Java端口。
+- [jbox2d](https://github.com/jbox2d/jbox2d) -- 【**已由仓颉库团队认领**】一个2D的Java物理引擎，C++物理引擎Box2D和LiquidFun的原生Java端口。
 - [sanitize-html](https://github.com/apostrophecms/sanitize-html) -- 用于清理HTML内容，防止跨站脚本攻击（XSS）。它可以删除不必要的标签和属性，同时保留你需要的内容。
 - [androidvideocache](https://github.com/danikula/AndroidVideoCache) --  【**已由仓颉库团队认领**】视频缓存
-- [epublib](https://github.com/psiegman/epublib) -- 读取/写入epub格式文件的核心实现并提供一组epub工具
-- [ohos_mail](https://github.com/eclipse-ee4j/mail) -- 检测并解析MIME格式的电子邮件消息流，并构建电子邮件消息的组件合集
+- [epublib](https://github.com/psiegman/epublib) -- 【**已由仓颉库团队认领**】读取/写入epub格式文件的核心实现并提供一组epub工具
+- [ohos_mail](https://github.com/eclipse-ee4j/mail) -- 【**已由仓颉库团队认领**】检测并解析MIME格式的电子邮件消息流，并构建电子邮件消息的组件合集
 - [apacheavro](https://github.com/apache/avro) -- Avro是一个数据序列化的系统，可以将数据结构或对象转化成便于存储或传输的格式，适合于远程或本地大规模数据的存储和交换
 - [class-transformer](https://github.com/typestack/class-transformer) -- 对象和类之间基于修饰符的转换、序列化和反序列化
 - [msgpack-java](https://github.com/msgpack/msgpack-java) -- 【**已由湖南文理学院[@Yesokim](https://gitcode.com/weixin_64400442)认领**】MessagePack是一种高效的二进制序列化格式。它允许你像JSON一样在多种语言之间交换数据。但它更快更小。小整数被编码成一个字节，典型的短字符串除了字符串本身只需要一个额外的字节。
@@ -92,7 +92,7 @@
 - [Easyrelpace](https://github.com/codsen/codsen<br/>https://github.com/sindresorhus/leven) -- 【已由仓颉库团队认领】字符串对比替换
 - [is-png](https://github.com/sindresorhus/is-png) -- 【**已由东北大学[@PermissionDog](https://gitcode.com/permissiondog)认领**】判断是否是png格式文件的库
 - [apachejakartacommonsvalida](https://commons.apache.org/proper/commons-validator/<br/>https://github.com/apache/commons-validator) -- Apache Commons Validator为客户端验证和服务器端数据验证提供了构建块。
-- [mime](https://www.npmjs.com/package/mime) -- 全面的MIME类型集
+- [mime](https://www.npmjs.com/package/mime) -- 【**已由仓颉库团队认领**】全面的MIME类型集
 - [checksum](https://github.com/dshaw/checksum) -- 【**已由东北大学[@RainBoWli6](https://gitcode.com/RainBoWli6)认领**】计算散列函数的组件，如sha1，MD5等
 - [is-webp](https://github.com/sindresorhus/is-webp) -- 【**已由[软通动力]()/东北大学[@ZIYAN137](https://gitcode.com/ZIYAN137)认领**】判断是否是webp的库
 - [jmustache](https://github.com/samskivert/jmustache) -- jmustache是一个Java的Mustache模板引擎实现，它是Mustache规范的一个Java实现。Mustache是一个轻量级的模板引擎，它的语法简单易懂，易于学习和使用，被广泛应用于Web应用程序和其它领域。
@@ -108,7 +108,7 @@
 - [snappyjs](https://github.com/google/snappy) -- 【**已由仓颉库团队认领**】Snappy是一个压缩/解压缩库。它的目标不是最大压缩或与任何其他压缩库的兼容性；相反，它的目标是非常高的速度和合理的压缩。
 - [text-encoding](https://gitee.com/openharmony-tpc/openharmony_tpc_samples/tree/master/textEncodingDemo) -- text-encoding提供文本数据进行编码和解码功能
 - [luajava开源库鸿蒙化移植适配](https://github.com/gudzpoz/luajava) -- 提供类似的能力，可以lua和TS互调用
-- [Blufi鸿蒙化](https://github.com/EspressifApp/EspBlufiForAndroid?tab=readme-ov-file) -- 用于智能设备的配网和管理，这些智能硬件都是ESP32Combo芯片，Bluefi就是针对该芯片的配方方案
+- [Blufi鸿蒙化](https://github.com/EspressifApp/EspBlufiForAndroid?tab=readme-ov-file) -- 【**已由仓颉库团队认领**】用于智能设备的配网和管理，这些智能硬件都是ESP32Combo芯片，Bluefi就是针对该芯片的配方方案
 - [ohos-beacon-library](https://github.com/AltBeacon/android-beacon-library) -- 应用与蓝牙信标交互组件
 - [FastBle](https://github.com/Jasonchenlijian/FastBle) -- 蓝牙能力集成工具，支持过滤，扫描，链接，读取，写入
 - [mbassador](https://gitee.com/openharmony-sig/ohos-mbassador) -- 【**已由仓颉库团队认领**】强大的事件总线，包含事件管理、强/弱引用，事件筛选等
