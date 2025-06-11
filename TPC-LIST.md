@@ -95,7 +95,7 @@
 - [mime](https://www.npmjs.com/package/mime) -- 【**已由仓颉库团队认领**】全面的MIME类型集
 - [checksum](https://github.com/dshaw/checksum) -- 【**已由东北大学[@RainBoWli6](https://gitcode.com/RainBoWli6)认领**】计算散列函数的组件，如sha1，MD5等
 - [is-webp](https://github.com/sindresorhus/is-webp) -- 【**已由[软通动力]()/东北大学[@ZIYAN137](https://gitcode.com/ZIYAN137)认领**】判断是否是webp的库
-- [jmustache](https://github.com/samskivert/jmustache) -- jmustache是一个Java的Mustache模板引擎实现，它是Mustache规范的一个Java实现。Mustache是一个轻量级的模板引擎，它的语法简单易懂，易于学习和使用，被广泛应用于Web应用程序和其它领域。
+- [jmustache](https://github.com/samskivert/jmustache) -- 【**已由东北大学[@naxida](https://gitcode.com/naxida)认领**】jmustache是一个Java的Mustache模板引擎实现，它是Mustache规范的一个Java实现。Mustache是一个轻量级的模板引擎，它的语法简单易懂，易于学习和使用，被广泛应用于Web应用程序和其它领域。
 - [json-schema-validator](https://github.com/box-metadata/json-schema-validator) -- 【**已由仓颉库团队认领**】基于 JSON Schema规范，验证Json数据结构的库。
 - [protobuf-format](https://github.com/bivas/protobuf-java-format) -- 【**已由仓颉库团队认领**】基于Google的protobufMessage提供不同格式的序列化和反序列化。允许将默认（字节数组）输出覆盖为基于文本的格式，例如XML、JSON和HTML。
 - [soundex-code](https://github.com/words/soundex-code) -- 【**已由仓颉库团队认领**】这个包公开了一个语音算法。这意味着它得到一个特定的字符串（通常是人名），并将其转换成代码，然后可以将其与其他代码（其他名称）进行比较，以检查它们是否（可能）发音相
@@ -138,7 +138,7 @@
 - [ios-ntp](https://github.com/jbenet/ios-ntp) -- 和服务端校准时间，保证时间三端一致，埋点使用，确保排查问题是时间一致
 - [jackrabbit](https://github.com/apache/jackrabbit) -- 文件管理器间接依赖
 - [stun-server](https://github.com/enobufs/stun) -- 基于STUN协议的服务开源组件，可获取客户端所在的NAT分配的外部IP地址和端口号
-- [eventsource](https://github.com/EventSource/eventsource) -- eventsource三方库是EventSource客户端的纯JavaScript实现。它提供了一种在客户端与服务器之间建立单向持续连接的机制，服务器可以使用这个连接向客户端发送事件更新，而客户端能够实时接收并处理这些更新。
+- [eventsource](https://github.com/EventSource/eventsource) --【**已由[@hashli ](https://gitcode.com/hashli )认领**】eventsource三方库是EventSource客户端的纯JavaScript实现。它提供了一种在客户端与服务器之间建立单向持续连接的机制，服务器可以使用这个连接向客户端发送事件更新，而客户端能够实时接收并处理这些更新。
 - [FtpServer](NA) -- 支持苹果设备传输文件到单框架手机
 - [smack](https://github.com/igniterealtime/Smack) --  【**已由仓颉库团队认领**】开源、高度模块化、易于使用的XMPP客户端库，让开发者可以开发XMPP协议的即时通讯客户端
 - [Rocket.Chat.ohos](https://github.com/RocketChat/Rocket.Chat) --  【**已由仓颉库团队认领**】Application interface for server methods and message stream subscriptions.Using this package third party apps can control and query a Rocket.Chat server instance,via REST and Realtime(Websocket) API's.<br/>Designed especially for chat automation, this library makes it easy for application developers to provide the best solutions and experience for their community.via REST and Realtime(Websocket) API's.<br/>Designed especially for chat automation, this library makes it easy for application developers to provide the best solutions and experience for their community.
