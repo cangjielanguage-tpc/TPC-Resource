@@ -92,7 +92,7 @@
 - [Easyrelpace](https://github.com/codsen/codsen<br/>https://github.com/sindresorhus/leven) -- 【已由仓颉库团队认领】字符串对比替换
 - [is-png](https://github.com/sindresorhus/is-png) -- 【**已由东北大学[@PermissionDog](https://gitcode.com/permissiondog)认领**】判断是否是png格式文件的库
 - [apachejakartacommonsvalida](https://commons.apache.org/proper/commons-validator/<br/>https://github.com/apache/commons-validator) -- Apache Commons Validator为客户端验证和服务器端数据验证提供了构建块。
-- [mime](https://www.npmjs.com/package/mime) -- 【**已由仓颉库团队认领**】全面的MIME类型集
+- [mime](https://www.npmjs.com/package/mime) -- 【**已由仓颉库团队/[@chenyunda218](https://gitcode.com/chenyunda218)认领**】全面的MIME类型集
 - [checksum](https://github.com/dshaw/checksum) -- 【**已由东北大学[@RainBoWli6](https://gitcode.com/RainBoWli6)认领**】计算散列函数的组件，如sha1，MD5等
 - [is-webp](https://github.com/sindresorhus/is-webp) -- 【**已由[软通动力]()/东北大学[@ZIYAN137](https://gitcode.com/ZIYAN137)认领**】判断是否是webp的库
 - [jmustache](https://github.com/samskivert/jmustache) -- 【**已由东北大学[@naxida](https://gitcode.com/naxida)认领**】jmustache是一个Java的Mustache模板引擎实现，它是Mustache规范的一个Java实现。Mustache是一个轻量级的模板引擎，它的语法简单易懂，易于学习和使用，被广泛应用于Web应用程序和其它领域。
