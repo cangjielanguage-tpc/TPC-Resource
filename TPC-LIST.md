@@ -143,6 +143,30 @@
 - [smack](https://github.com/igniterealtime/Smack) --  【**已由仓颉库团队认领**】开源、高度模块化、易于使用的XMPP客户端库，让开发者可以开发XMPP协议的即时通讯客户端
 - [Rocket.Chat.ohos](https://github.com/RocketChat/Rocket.Chat) --  【**已由仓颉库团队认领**】Application interface for server methods and message stream subscriptions.Using this package third party apps can control and query a Rocket.Chat server instance,via REST and Realtime(Websocket) API's.<br/>Designed especially for chat automation, this library makes it easy for application developers to provide the best solutions and experience for their community.via REST and Realtime(Websocket) API's.<br/>Designed especially for chat automation, this library makes it easy for application developers to provide the best solutions and experience for their community.
 
+### 数据监控
+
++ [skywalking sdk](https://skywalking.apache.org/) -- 用于分布式系统的应用程序性能监控工具，专为微服务、云原生和基于容器的 （Kubernetes） 架构。
++ [Promethes metrics client](https://prometheus.io/docs/instrumenting/clientlibs/) -- Prometheus 将其指标收集并存储为时间序列数据，即指标信息与记录时间戳一起存储，以及称为标签的可选键值对。
+
+### 安全类
+
++ [openHiTLS4cj](https://www.openhitls.net/zh/) -- openHiTLS是业界首款面向全场景数智安全、独立创新的开源密码套件，旨在打造算法先进、 性能卓越、高效敏捷、安全可靠的密码套件，通过轻量级、可裁剪的软件技术架构满足各行业不同场景的多样化要求， 同时积极探索后量子等先进算法创新实践，构建密码前沿技术底座！
+
+### 分布式
+
++ [Nacos client](https://nacos.io/) -- Nacos 通过提供简单易用的动态服务发现、服务配置、服务共享与管理等服务基础设施，帮助用户在云原生时代，在私有云、混合云或者公有云等所有云环境中，更好的构建、交付、管理自己的微服务平台，更快的复用和组合业务服务，更快的交付商业创新的价值，从而为用户赢得市场。
++ [Apollo client](https://github.com/apolloconfig/apollo/wiki/Apollo%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83%E4%BB%8B%E7%BB%8D) -- Apollo（阿波罗）是携程框架部门研发的开源配置管理中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性。
+
+### 消息队列
+
++ [kafka client](https://github.com/apache/kafka) -- 使用Apache Kafka客户端编写分布式应用程序和微服务，这些应用程序和微服务能够以并行、可扩展且容错的方式读取、写入和处理事件流，即使这些事件流与网络问题或机器故障相关。
++ [RocketMQ client](https://rocketmq.apache.org/zh/) -- 云原生“消息、事件、流”实时数据处理平台，覆盖云边端一体化数据处理场景
++ [RabbitMQ client](https://www.rabbitmq.com/) -- RabbitMQ 是一个可靠且成熟的消息传递和流代理，易于部署在云环境、本地和本地计算机上。
+
+### 负载均衡
+
++ [Apisix cangjie plugin runner](https://apisix.apache.org/zh/downloads/) -- APISIX API 网关提供了负载均衡、动态上游、灰度发布、服务熔断、身份认证、可观测性等丰富的流量管理功能。
+
 ### 其他
 
 - [PostgreSql鸿蒙化](https://git.postgresql.org/gitweb/?p=postgresql.git;a=summary) -- PostgreSql替换sqlite，优势如下：<br/>1.pg独立进程，不影响服务进程，提高服务进程稳定性<br/>2.pg是多文件存储<br/>3.pg有更好的数据完整性、容错性<br/>4.pg完全开源不受任何商用公司控制。
