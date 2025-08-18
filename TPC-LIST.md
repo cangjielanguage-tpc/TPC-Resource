@@ -89,7 +89,7 @@
 - [androidutilcode](https://github.com/iknow4/Android-utils) -- 安卓工具类库
 - [leven](https://github.com/sindresorhus/leven) -- 【**已由东北大学[@Chemxy](https://gitcode.com/Chemxy)认领**】使用Levenshtein距离算法测量两个字符串之间的差异
 - [dd-plist](https://github.com/3breadt/dd-plist) -- plist文件解析库
-- [Easyrelpace](https://github.com/codsen/codsen<br/>https://github.com/sindresorhus/leven) -- 【已由仓颉库团队认领】字符串对比替换
+- [Easyrelpace](https://github.com/codsen/codsen<br/>https://github.com/sindresorhus/leven) -- 【**已由仓颉库团队认领**】字符串对比替换
 - [is-png](https://github.com/sindresorhus/is-png) -- 【**已由东北大学[@PermissionDog](https://gitcode.com/permissiondog)认领**】判断是否是png格式文件的库
 - [mime](https://www.npmjs.com/package/mime) -- 【**已由仓颉库团队/[@chenyunda218](https://gitcode.com/chenyunda218)认领**】全面的MIME类型集
 - [checksum](https://github.com/dshaw/checksum) -- 【**已由东北大学[@RainBoWli6](https://gitcode.com/RainBoWli6)认领**】计算散列函数的组件，如sha1，MD5等
@@ -132,7 +132,7 @@
 - [smbj](https://github.com/hierynomus/smbj) -- 主要用于计算机间共享文件，支持安全保护，访问共享目录、打开文件、读写文件等
 - [coap](https://gitee.com/openharmony-tpc/ohos_coap) -- libcoap是Coap协议的C语言实现，它是使用Coap协议的工具。ohos_coap是基于libcoapv4.3.1版本，封装napi接口，给上层ts提供coap通信能力的三方库
 - [cbor-java](https://github.com/c-rack/cbor-java) -- 【**已由仓颉库团队认领**】java提供cbor（一种提供良好压缩性，扩展性强，不需要进行版本协商的二进制数据交换形式）的工具类
-- [apachecommonsnet](https://commons.apache.org/proper/commons-net/) --【**已有湖南大学认领 **】Maintenanceandbugfixrelease(Java7).
+- [apachecommonsnet](https://commons.apache.org/proper/commons-net/) --【**已有湖南大学认领**】Maintenanceandbugfixrelease(Java7).
 - [ios-ntp](https://github.com/jbenet/ios-ntp) -- 和服务端校准时间，保证时间三端一致，埋点使用，确保排查问题是时间一致
 - [jackrabbit](https://github.com/apache/jackrabbit) -- 文件管理器间接依赖
 - [stun-server](https://github.com/enobufs/stun) -- 基于STUN协议的服务开源组件，可获取客户端所在的NAT分配的外部IP地址和端口号
