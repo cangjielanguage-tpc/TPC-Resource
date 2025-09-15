@@ -69,6 +69,7 @@
 
 - [appauth](https://github.com/openid/AppAuth-Android) -- 【**已由仓颉库团队认领**】用于与OAuth2.0和OpenIDConnect提供程序进行通信的Android客户端SDK。
 - [token](https://github.com/corbel-platform/lib-token<br/>https://github.com/lydell/js-tokens) -- 【**已由仓颉库团队认领**】身份验证令牌库
+- [bouncycastle](https://www.bouncycastle.org/java.html) -- Legion of the Bouncy Castle 是一个开源加密库，提供 Java 和 C# 的轻量级 API 和 JCE 提供者。支持多种算法（对称/非对称加密、签名、MAC、密钥管理），包括 FIPS 140-2/3 合规模块，适用于 J2ME 至现代 JVM，涵盖 PKCS、S/MIME、PGP 等功能。
 
 ### 编码解析
 
@@ -80,7 +81,7 @@
 
 ### 工具类
 
-- [jbox2d](https://github.com/jbox2d/jbox2d) -- 【**已由仓颉库团队认领**】一个2D的Java物理引擎，C++物理引擎Box2D和LiquidFun的原生Java端口。
+- [jbox2d](https://github.com/jbox2d/jbox2d) -- 【**已由仓颉库团队认领**】一个2D的物理引擎，C++物理引擎Box2D和LiquidFun的原生端口。
 - [sanitize-html](https://github.com/apostrophecms/sanitize-html) -- 用于清理HTML内容，防止跨站脚本攻击（XSS）。它可以删除不必要的标签和属性，同时保留你需要的内容。
 - [androidvideocache](https://github.com/danikula/AndroidVideoCache) --  【**已由仓颉库团队认领**】视频缓存
 - [epublib](https://github.com/psiegman/epublib) -- 【**已由仓颉库团队认领**】读取/写入epub格式文件的核心实现并提供一组epub工具
@@ -114,6 +115,26 @@
 - [FastBle](https://github.com/Jasonchenlijian/FastBle) -- 蓝牙能力集成工具，支持过滤，扫描，链接，读取，写入
 - [mbassador](https://gitee.com/openharmony-sig/ohos-mbassador) -- 【**已由仓颉库团队认领**】强大的事件总线，包含事件管理、强/弱引用，事件筛选等
 - [adler](https://developer.android.google.cn/reference/java/util/zip/Adler32.html) -- 【**已由仓颉库团队认领**】Adler32算法能力
+- [LDAP客户端](官网：https://directory.apache.org/api/
+  GitHub：https://github.com/apache/directory-api) -- 完整的LDAP工具包：提供LDAP v3协议客户端和服务器端开发支持，包括连接管理、查询、修改条目等操作。
+  分层API设计：
+  低级API：直接操作LDAP请求/响应（如LdapConnection）。
+  高级API：封装常用操作（如CRUD、搜索过滤）。
+  Schema支持：可解析和验证LDAP Schema定义（对象类、属性类型等）。
+  嵌入式LDAP服务器：通过ApacheDS提供内存或持久化存储的轻量级LDAP服务，用于测试或本地开发。
+  扩展性：支持自定义控件（Controls）、扩展操作（Extended Operations）等高级特性。
+
+- [OpenPDF](https://github.com/LibrePDF/OpenPDF) -- OpenPDF是一个基于LGPL和MPL协议的Java开源PDF库，作为iText 4的继承者，提供全面的PDF处理功能。它支持创建、编辑PDF文件，添加文本、图像、表格，实现加密和页面布局设置。
+
+- [jsoup爬虫组件](https://jsoup.org/) -- jsoup是一个开源Java库，用于解析和操作真实世界HTML/XML文档。它提供直观API，支持从URL、文件或字符串获取内容，使用DOM方法、CSS选择器和XPath提取、修改数据。实现WHATWG HTML5规范，解析结果与现代浏览器DOM一致，支持HTML编辑、清洗和XSS防护，兼容Java 8+、Android和模块化系统。
+
+- [jfreechart](https://github.com/jfree/jfreechart) -- JFreeChart 是一款功能强大、灵活且广泛使用的 Java 开源图表库，它能帮助开发者轻松地将数据转化为直观的图表。JFreeChart 除了提供丰富的图表类型，还有以下几个突出特点：高度的可定制性；交互式体验；多样的输出格式；动态数据更新；跨平台部署等。
+
+- [apache commons configuration](https://github.com/apache/commons-configuration) -- Apache Commons Configuration 是一个强大且灵活的 Java 配置管理库，能帮你轻松处理各种配置文件。主要有以下功能。
+  多格式支持；统一访问接口；动态配置更新；层次化配置；配置组合；灵活的文件定位等，
+
+- [joda-time](https://www.joda.org/joda-time/) -- Joda-Time 是一个非常成熟、功能强大且易于使用的 Java 日期和时间处理库。旨在解决 Java 标准库中 java.util.Date、java.util.Calendar 和 java.text.SimpleDateFormat 等 API 存在的诸多问题（例如：线程不安全、API 设计不佳、功能有限、易出错等）。
+
 
 ### 图像视频
 
@@ -144,6 +165,23 @@
 - [smack](https://github.com/igniterealtime/Smack) --  【**已由仓颉库团队认领**】开源、高度模块化、易于使用的XMPP客户端库，让开发者可以开发XMPP协议的即时通讯客户端
 - [Rocket.Chat.ohos](https://github.com/RocketChat/Rocket.Chat) --  【**已由仓颉库团队认领**】Application interface for server methods and message stream subscriptions.Using this package third party apps can control and query a Rocket.Chat server instance,via REST and Realtime(Websocket) API's.<br/>Designed especially for chat automation, this library makes it easy for application developers to provide the best solutions and experience for their community.via REST and Realtime(Websocket) API's.<br/>Designed especially for chat automation, this library makes it easy for application developers to provide the best solutions and experience for their community.
 
+- [snmp4j](https://www.snmp4j.org/) -- SNMP4J-Agent 是一个 Java 实现的开源 SNMP 代理 API，基于 SNMP4J，支持 SNMPv1/v2c/v3。提供命令响应、通知发送、代理转发功能，支持标准 MIB（如 SNMPv2-MIB、USM），以及 2 阶段提交的原子 SET 操作。兼容 IPv4/IPv6、UDP/TCP/TLS，易于扩展和集成。
+- [angus-mail](https://github.com/eclipse-ee4j/angus-mail) -- Angus Mail 是 Eclipse Angus 项目实现的 Jakarta Mail 2.1+，支持 SMTP/POP3/IMAP 协议发送和接收邮件，处理 MIME 内容、附件和加密（SSL/TLS、OAuth 2.0）。提供平台无关的 API，兼容 Java 模块化，适合构建邮件应用。
+- [Soap](https://github.com/apache/axis-axis2-java-core) -- Web服务框架：支持SOAP和RESTful服务开发，符合JAX-WS（Java API for XML Web Services）和JAX-RS（Java API for RESTful Services）标准。
+  多协议支持：HTTP、JMS、CXF等传输协议，支持WS-*标准（如WS-Security、WS-Addressing）。
+  数据绑定：内置JAXB、Aegis等数据绑定工具，支持JSON/XML转换。
+- [Saml通信组件](https://github.com/opensaml) -- SAML 协议支持：完整实现 SAML 2.0（Security Assertion Markup Language），部分支持 SAML 1.x，用于身份联合（Federated Identity）和单点登录（SSO）。
+  核心组件：
+  SAML 消息解析：XML 绑定（HTTP-POST/Redirect，SOAP 绑定）。
+  断言（Assertion）签发/验证：支持数字签名和加密（如 X.509 证书）。
+  元数据管理：解析和生成 IDP/SP 元数据文件。
+  扩展库：
+  OpenSAML Java：主库，提供核心 SAML 2.0 功能。
+  OpenSAML Security：提供签名、加密、密钥管理等安全工具。
+- [DNS](https://coredns.io/) -- CoreDNS 是一个灵活的 DNS 服务器，采用 Go 语言编写，通过插件架构提供服务发现、负载均衡、缓存等功能。支持多种协议（DNS、DoT、DoH、DoQ），可从文件、数据库或 Kubernetes 读取数据，易于扩展，适用于云原生环境。
+- [Apache Camel](https://camel.apache.org) -- Apache Camel 是一个基于 企业集成模式（EIP） 的开源框架，核心功能是提供轻量级的消息路由、数据转换与多协议传输（如 HTTP、JMS、FTP 等），通过声明式 DSL 简化异构系统间的集成；其典型使用场景涵盖企业应用（如 ERP/CRM 系统对接）、微服务通信、物联网设备数据处理及实时业务流程自动化。
+
+
 ### 数据监控
 
 + [skywalking sdk](https://skywalking.apache.org/) -- 用于分布式系统的应用程序性能监控工具，专为微服务、云原生和基于容器的 （Kubernetes） 架构。
@@ -157,6 +195,7 @@
 
 + [Nacos client](https://nacos.io/) -- Nacos 通过提供简单易用的动态服务发现、服务配置、服务共享与管理等服务基础设施，帮助用户在云原生时代，在私有云、混合云或者公有云等所有云环境中，更好的构建、交付、管理自己的微服务平台，更快的复用和组合业务服务，更快的交付商业创新的价值，从而为用户赢得市场。
 + [Apollo client](https://github.com/apolloconfig/apollo/wiki/Apollo%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83%E4%BB%8B%E7%BB%8D) -- Apollo（阿波罗）是携程框架部门研发的开源配置管理中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性。
+- [Apache Ignite](https://ignite.apache.org/) -- Apache Ignite 是一个分布式内存计算平台和数据库，提供高性能的内存速度与多层存储（内存+磁盘）。核心功能包括分布式 SQL 查询、ACID 事务、计算 API（如 MapReduce）、内置机器学习、连续查询，支持 Java、C#、C++ 等语言，实现数据网格和缓存加速。
 
 ### 消息队列
 
@@ -167,6 +206,56 @@
 ### 负载均衡
 
 + [Apisix cangjie plugin runner](https://apisix.apache.org/zh/downloads/) -- APISIX API 网关提供了负载均衡、动态上游、灰度发布、服务熔断、身份认证、可观测性等丰富的流量管理功能。
+
+### 任务调度
+- [apache airflow](https://github.com/apache/airflow) -- Apache Airflow 是一个开源工作流平台，通过 Python 定义 DAGs，调度、执行和监控复杂任务。支持多种执行器（Celery、Kubernetes），提供 Web UI、插件扩展，连接数据库、云服务等，适合数据管道管理。
+- [flowable-engine](https://github.com/flowable/flowable-engine)工作流调度系统，BPMN流程自动化组件。
+- [Activiti BPM Suite](https://github.com/Activiti/Activiti)工作流调度系统，BPMN流程自动化组件。
+- [Camunda BPM Platform](https://github.com/camunda)工作流调度系统，BPMN流程自动化组件。
+- [spring-retry重试框架](https://github.com/spring-projects/spring-retry) -- 自动重试失败的调用（如网络请求、数据库操作等），支持：声明式/编程式重试（通过注解或代码配置）、灵活的退避策略（固定间隔/指数退避）、异常分类（只重试特定异常，如TimeoutException）、熔断机制（避免无限重试）。
+
+
+### 数据封装
+- [Parquet](https://parquet.apache.org/) -- 列式存储文件格式
+  1、利用 Parquet 的列式存储，将结构化或半结构化数据高效持久化，减少磁盘占用并优化读取性能
+  2、提供列裁剪和批量扫描能力，加速大规模分析和聚合计算任务
+  3、在分布式计算框架（MapReduce、Spark、Flink）中可直接访问 Parquet 文件，实现高效计算和任务调度
+  4、可直接从 HDFS、Kafka、本地文件等数据源获取数据，并自动组织为适合分析的 Parquet 列式布局
+
+- [Arrow](https://arrow.apache.org/) --  列式存储数据格式
+  1.支持将csv, json等格式数据转换为arrow格式数据
+  2.提供等价于velox/datafusion等列式计算引擎的能力，对arrow格式数据进行计算
+  3.提供高性能传输arrow格式数据的rpc能力
+  4.提供直接访问hdfs/hofs/kafka/本地数据并转换数据格式的能力
+
+- [carbondata](https://carbondata.apache.org/) -- 数据湖格式软件
+  1.提供列式存储与向量化计算能力，对大规模数据进行高性能分析
+  2.提供高效压缩和索引机制，加速查询与聚合计算
+  3.提供分区裁剪、过滤下推等查询优化能力，减少数据扫描量
+  3.提供数据更新、删除与增量加载能力，支持实时和批量数据处理
+  4.提供直接访问 HDFS、S3 等分布式存储的数据并进行分析处理
+
+- [roaringbitmap](https://roaringbitmap.org/) -- RoaringBitmap 是一种高效的位图数据结构，用于压缩存储稀疏整数集合。它采用分块和变长编码（如 RLE 和位打包）实现高压缩比和快速操作，支持并集、交集、计数等位运算。提供多语言库和序列化格式，便于跨系统互操作。
+
+### 数据解析
+- [hadoop](https://avro.apache.org/) -- 数据序列化组件
+  1.支持将 CSV、JSON、Parquet 等多种数据格式转换为 Avro 格式数据，方便统一存储和处理
+  2.提供高效的序列化与反序列化能力，保证在 Hadoop、Spark、Flink 等多语言环境下的数据一致性
+  3.提供基于 Avro Schema 的 RPC 能力，实现大规模分布式系统间的高性能数据交换
+  4.支持直接访问 HDFS、Kafka、本地文件等数据源，并将数据实时或批量转换为 Avro 格式，便于数据湖和数据仓库构建
+- [drools](https://github.com/kiegroup/drools) -- 基于规则的业务逻辑引擎（Rule Engine），采用 RETE 算法 进行高效模式匹配，适用于复杂业务规则的解耦和管理。
+  核心组件：Drools Rule Engine：执行规则推理的核心引擎；KIE（Knowledge Is Everything）：规则、流程、决策表的统一管理框架；DRL（Drools Rule Language）：专用的规则描述语言；Decision Tables：Excel 格式的决策表，适合非技术人员维护规则；jBPM（可选）：与 Drools 集成的业务流程管理工具。
+- [helm_chart](https://github.com/helm/helm) -- Helm Charts 定义、安装和升级即使是最复杂的 Kubernetes 应用程序，易于创建、版本化、共享和发布。
+- [rhin](https://rhino.github.io) -- Rhino 的核心是一个完整的 JavaScript 引擎，允许在Java虚拟机上允许JavaScript，支持 ECMAScript 5.1（ES5.1）标准。
+
+### 数据库框架
+- [DataX](https://github.com/alibaba/DataX) -- DataX 是阿里巴巴开源的离线数据同步工具，支持多种数据源（如 MySQL、Oracle、HDFS、Hive）之间的批量同步。提供高性能、插件化架构，支持数据转换、过滤，易于配置和管理，适合异构数据源的稳定传输。
+- [Apache NiFi](https://nifi.apache.org/) 是一个开源数据流平台，支持可视化设计、自动化数据路由、转换和系统调解。提供数百个处理器处理多种数据源（如文件、数据库、Kafka），支持实时/批处理，易扩展，内置安全和监控，适合复杂数据流管理。
+
+### 算法类
+- [jts topology suite](https://github.com/locationtech/jts) -- JTS Topology Suite 用于创建和操作矢量几何。它还提供了一组全面的几何测试用例，以及用于处理和可视化几何和 JTS 函数的 TestBuilder GUI 应用程序。JTS 提供了一套完整的工具集，让你能够用代码精确地描述地理特征（点、线、面等），判断它们之间的空间关系（如相交、包含、相离等），并执行各种几何计算（如求交、并、差、缓冲区分析等）。
+- [Apache Lucene](https://lucene.apache.org/) -- Apache Lucene 主要用于全文索引和搜索。它支持高效的文档索引、文本分析、分词、拼写检查、高亮显示等功能。通过倒排索引实现快速检索，支持多种语言和自定义分析器。Lucene Core 是核心组件，PyLucene 提供 Python 绑定，Solr 作为其子项目扩展为分布式搜索平台。
+  
 
 ### 其他
 
