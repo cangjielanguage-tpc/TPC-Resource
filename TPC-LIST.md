@@ -128,8 +128,7 @@
 - [FastBle](https://github.com/Jasonchenlijian/FastBle) -- 蓝牙能力集成工具，支持过滤，扫描，链接，读取，写入
 - [mbassador](https://gitee.com/openharmony-sig/ohos-mbassador) -- 【**已由仓颉库团队认领**】强大的事件总线，包含事件管理、强/弱引用，事件筛选等
 - [adler](https://developer.android.google.cn/reference/java/util/zip/Adler32.html) -- 【**已由仓颉库团队认领**】Adler32算法能力
-- [LDAP客户端](官网：https://directory.apache.org/api/
-  GitHub：https://github.com/apache/directory-api) -- 完整的LDAP工具包：提供LDAP v3协议客户端和服务器端开发支持，包括连接管理、查询、修改条目等操作。
+- [LDAP client](https://github.com/apache/directory-api) -- 完整的LDAP工具包：提供LDAP v3协议客户端和服务器端开发支持，包括连接管理、查询、修改条目等操作。
   分层API设计：
   低级API：直接操作LDAP请求/响应（如LdapConnection）。
   高级API：封装常用操作（如CRUD、搜索过滤）。
