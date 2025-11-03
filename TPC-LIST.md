@@ -20,6 +20,7 @@
   - [数据解析](#数据解析)
   - [数据库框架](#数据库框架)
   - [算法类](算法类)
+  - [编程框架](编程框架)
   - [其他](#其他)
   
 
@@ -90,6 +91,13 @@
 - [icu4j](https://github.com/unicode-org/icu/tree/main/icu4j) -- 【**已由仓颉库团队认领**】Unicode统一组件
 - [protobuf_format/xml_js](https://gitee.com/openharmony-tpc/protobuf) -- protobufjs主要功能是序列化和反序列化，更高效，序列化后的体积也很小.
 - [protobuf_format/sax](https://gitee.com/openharmony-tpc/protobuf) -- protobufjs主要功能是序列化和反序列化，更高效，序列化后的体积也很小.
+- [xalan](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/xslt-processor) -- XSLT 处理器，用于将 XML 文档转换为 HTML、文本或其他 XML 文档类型。它实现了XSL 转换 (XSLT) 版本 1.0和 XML 路径语言 (XPath) 版本 1.0，并且可以从命令行、applet 或 servlet 中使用，或者作为其他程序中的模块使用。
+- [dd-plist](https://gitcode.com/openharmony-sig/dd-plist) -- 解析生成属性列表文件的工具库。
+- [avro](https://gitcode.com/openharmony-sig/avro) -- 实现的数据序列化系统，支持丰富的数据结构，将其转化成便于存储或传输的二进制数据格式。它同时也是一个容器文件，用于存储持久数据。
+- [xmlbuilder](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/Xmlbuilder) -- xmlbuilder 是一个用于构建 XML 文档的 JavaScript 库。它提供了一种简单而直观的方式来创建和生成符合 XML 标准的文档。
+- [xslt-processor](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/xslt-processor) -- 支持使用与XML文档配对的XSLT样式表将XML文档转换成多中文本格式（HTML、Text等）的库。
+- [amf](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/amf) -- amf-convert在javascript环境中可以实现AMF格式的serialization/deserialization。
+
 
 
 ### 工具类
@@ -140,7 +148,29 @@
 - [jfreechart](https://github.com/jfree/jfreechart) -- JFreeChart 是一款功能强大、灵活且广泛使用的 Java 开源图表库，它能帮助开发者轻松地将数据转化为直观的图表。JFreeChart 除了提供丰富的图表类型，还有以下几个突出特点：高度的可定制性；交互式体验；多样的输出格式；动态数据更新；跨平台部署等。
 - [apache commons configuration](https://github.com/apache/commons-configuration) -- Apache Commons Configuration 是一个强大且灵活的 Java 配置管理库，能帮你轻松处理各种配置文件。主要有以下功能。
   多格式支持；统一访问接口；动态配置更新；层次化配置；配置组合；灵活的文件定位等，
-- [joda-time](https://www.joda.org/joda-time/) -- Joda-Time 是一个非常成熟、功能强大且易于使用的 Java 日期和时间处理库。旨在解决 Java 标准库中 java.util.Date、java.util.Calendar 和 java.text.SimpleDateFormat 等 API 存在的诸多问题（例如：线程不安全、API 设计不佳、功能有限、易出错等）。
+- [joda-time](https://www.joda.org/joda-time/) -- Joda-Time为Java日期和时间类提供了质量替代。该设计允许多个日历系统,同时仍然提供一个简单的API。
+- [node-imap](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/node-imap) -- 适配OpenHarmony环境的IMAP协议三方库。
+- [postcss](https://gitee.com/openharmony-tpc/openharmony_tpc_samples/tree/master/postcss) -- PostCSS是一个用JS插件转换样式的工具。这些插件可以检测你的CSS，支持变量和混合，编译未来的CSS语法，内联图像等等。
+- [stringtemplate](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/stringTemplate) -- stringtemplate是一个用于文本生成的模板引擎,它可以将文本模板与数据合并以生成最终的文本输出。
+- [ohos_adaptivecards](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/ohos_adaptivecards) -- 自适应卡片是一种开放式的卡片格式，让开发人员能够使用JSON生成 UI 内容。
+- [@nutpi/idcard](https://atomgit.com/nutpi_tpc/idcard) -- 中国居民身份证,港澳台居住证,外国人永久居留身份证解析三方库。
+- [tyme4oh](https://github.com/6tail/tyme4ts.git) -- 日历工具库，支持公历、农历、藏历、星座、干支、生肖、节气、法定假日等。
+- [validator](https://github.com/validatorjs/validator.js) -- 字符串验证。
+- [ohos_dfu_library](https://gitcode.com/openharmony-sig/ohos_dfu_library) -- The DFU is design to update the firmware of nRF51 or nRF52 Series SoCs.
+- [xutils](https://gitcode.com/openharmony-sig/xutils_bak) -- xutils是一个网络、文件、数据库操作的工具库。
+- [@free/global](https://gitee.com/harmony-free/global) -- 涉及请求权限、日志信息、异常捕获、Navigation路由封装、首选项存储封装、屏幕适配。
+- [sanitize-html](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/sanitize-html
+) -- sanitize-html 提供了HTML清理API，支持HTML片段清理。内置默认的标签、属性等、可根据默认属性进行HTML清理，同时也可进行自行配置，根据用户需求进行自定义HTML清理规则。
+- [intl_unified_numberformat](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/Intl_unified_numberformat) -- intl_unified_numberformat是一个用于实现判断是否支持数字格式化的国际化工具库。
+- [gcoord](https://github.com/hujiulong/gcoord.git) -- 一个处理地理坐标系的JS库，用来修正百度地图、高德地图及其它互联网地图坐标系不统一的问题。
+- [path-to-regexp](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/PathToRegexpDemo) -- path-to-regexp是一个将路径字符串(如/user/:name)转换为正则表达式的库。
+- [source-map-js](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/source_map_js
+) -- 这是一个用于生成和使用这里描述的源映射格式的库。就是一个信息文件，里面存储了代码打包转换后的位置信息，实质是一个 json 描述文件，维护了打包前后的代码映射关系。
+
+
+
+
+
 
 
 ### 图像视频
@@ -265,6 +295,9 @@
 - [jts topology suite](https://github.com/locationtech/jts) -- JTS Topology Suite 用于创建和操作矢量几何。它还提供了一组全面的几何测试用例，以及用于处理和可视化几何和 JTS 函数的 TestBuilder GUI 应用程序。JTS 提供了一套完整的工具集，让你能够用代码精确地描述地理特征（点、线、面等），判断它们之间的空间关系（如相交、包含、相离等），并执行各种几何计算（如求交、并、差、缓冲区分析等）。
 - [Apache Lucene](https://lucene.apache.org/) -- Apache Lucene 主要用于全文索引和搜索。它支持高效的文档索引、文本分析、分词、拼写检查、高亮显示等功能。通过倒排索引实现快速检索，支持多种语言和自定义分析器。Lucene Core 是核心组件，PyLucene 提供 Python 绑定，Solr 作为其子项目扩展为分布式搜索平台。
   
+
+### 编程框架
+ - [parse-sdk](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/parse-sdk) -- Parse JavaScript SDK 是一个功能强大的客户端库，用于与 Parse Server 后端交互。
 
 
 ### 其他
