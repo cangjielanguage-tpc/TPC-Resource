@@ -82,17 +82,17 @@
 + [openHiTLS4cj](https://www.openhitls.net/zh/) -- openHiTLS是业界首款面向全场景数智安全、独立创新的开源密码套件，旨在打造算法先进、 性能卓越、高效敏捷、安全可靠的密码套件，通过轻量级、可裁剪的软件技术架构满足各行业不同场景的多样化要求， 同时积极探索后量子等先进算法创新实践，构建密码前沿技术底座！
 - [appauth](https://github.com/openid/AppAuth-Android) -- 【**已由仓颉库团队认领**】用于与OAuth2.0和OpenIDConnect提供程序进行通信的Android客户端SDK。
 - [token](https://github.com/corbel-platform/lib-token<br/>https://github.com/lydell/js-tokens) -- 【**已由仓颉库团队认领**】身份验证令牌库
-- [bouncycastle](https://www.bouncycastle.org/java.html) -- Legion of the Bouncy Castle 是一个开源加密库，提供 Java 和 C# 的轻量级 API 和 JCE 提供者。支持多种算法（对称/非对称加密、签名、MAC、密钥管理），包括 FIPS 140-2/3 合规模块，适用于 J2ME 至现代 JVM，涵盖 PKCS、S/MIME、PGP 等功能。
+- [bouncycastle](https://www.bouncycastle.org/java.html) --【已由GitCode平台认领】 Legion of the Bouncy Castle 是一个开源加密库，提供 Java 和 C# 的轻量级 API 和 JCE 提供者。支持多种算法（对称/非对称加密、签名、MAC、密钥管理），包括 FIPS 140-2/3 合规模块，适用于 J2ME 至现代 JVM，涵盖 PKCS、S/MIME、PGP 等功能。
 
 
 ### 编码解析
 
 - [htmlparser2](https://gitee.com/openharmony-tpc/openharmony_tpc_samples/tree/master/htmlparser2) -- 【**已由GitCode平台认领**】htmlparser2是一个快速高效的HTML解析器,并用JavaScript语言实现了相关功能
 - [icu4j](https://github.com/unicode-org/icu/tree/main/icu4j) -- 【**已由仓颉库团队认领**】Unicode统一组件
-- [protobuf_format/xml_js](https://gitee.com/openharmony-tpc/protobuf) -- protobufjs主要功能是序列化和反序列化，更高效，序列化后的体积也很小.
+- [protobuf_format/xml_js](https://gitee.com/openharmony-tpc/protobuf) -- 【已由GitCode平台认领】protobufjs主要功能是序列化和反序列化，更高效，序列化后的体积也很小.
 - [protobuf_format/sax](https://gitee.com/openharmony-tpc/protobuf) -- protobufjs主要功能是序列化和反序列化，更高效，序列化后的体积也很小.
 - [xalan](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/xslt-processor) -- XSLT 处理器，用于将 XML 文档转换为 HTML、文本或其他 XML 文档类型。它实现了XSL 转换 (XSLT) 版本 1.0和 XML 路径语言 (XPath) 版本 1.0，并且可以从命令行、applet 或 servlet 中使用，或者作为其他程序中的模块使用。
-- [dd-plist](https://gitcode.com/openharmony-sig/dd-plist) -- 解析生成属性列表文件的工具库。
+- [dd-plist](https://gitcode.com/openharmony-sig/dd-plist) -- 【已由GitCode平台认领】解析生成属性列表文件的工具库。
 - [avro](https://gitcode.com/openharmony-sig/avro) -- 实现的数据序列化系统，支持丰富的数据结构，将其转化成便于存储或传输的二进制数据格式。它同时也是一个容器文件，用于存储持久数据。
 - [xmlbuilder](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/Xmlbuilder) -- xmlbuilder 是一个用于构建 XML 文档的 JavaScript 库。它提供了一种简单而直观的方式来创建和生成符合 XML 标准的文档。
 - [xslt-processor](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/xslt-processor) -- 支持使用与XML文档配对的XSLT样式表将XML文档转换成多中文本格式（HTML、Text等）的库。
@@ -153,17 +153,17 @@
 - [postcss](https://gitee.com/openharmony-tpc/openharmony_tpc_samples/tree/master/postcss) -- PostCSS是一个用JS插件转换样式的工具。这些插件可以检测你的CSS，支持变量和混合，编译未来的CSS语法，内联图像等等。
 - [stringtemplate](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/stringTemplate) -- stringtemplate是一个用于文本生成的模板引擎,它可以将文本模板与数据合并以生成最终的文本输出。
 - [ohos_adaptivecards](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/ohos_adaptivecards) -- 自适应卡片是一种开放式的卡片格式，让开发人员能够使用JSON生成 UI 内容。
-- [@nutpi/idcard](https://atomgit.com/nutpi_tpc/idcard) -- 中国居民身份证,港澳台居住证,外国人永久居留身份证解析三方库。
-- [tyme4oh](https://github.com/6tail/tyme4ts.git) -- 日历工具库，支持公历、农历、藏历、星座、干支、生肖、节气、法定假日等。
-- [validator](https://github.com/validatorjs/validator.js) -- 字符串验证。
+- [@nutpi/idcard](https://atomgit.com/nutpi_tpc/idcard) --【已由GitCode平台认领】 中国居民身份证,港澳台居住证,外国人永久居留身份证解析三方库。
+- [tyme4oh](https://github.com/6tail/tyme4ts.git) -- 【已由GitCode平台认领】日历工具库，支持公历、农历、藏历、星座、干支、生肖、节气、法定假日等。
+- [validator](https://github.com/validatorjs/validator.js) --【已由GitCode平台认领】 字符串验证。
 - [ohos_dfu_library](https://gitcode.com/openharmony-sig/ohos_dfu_library) -- The DFU is design to update the firmware of nRF51 or nRF52 Series SoCs.
 - [xutils](https://gitcode.com/openharmony-sig/xutils_bak) -- xutils是一个网络、文件、数据库操作的工具库。
 - [@free/global](https://gitee.com/harmony-free/global) -- 涉及请求权限、日志信息、异常捕获、Navigation路由封装、首选项存储封装、屏幕适配。
 - [sanitize-html](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/sanitize-html
 ) -- sanitize-html 提供了HTML清理API，支持HTML片段清理。内置默认的标签、属性等、可根据默认属性进行HTML清理，同时也可进行自行配置，根据用户需求进行自定义HTML清理规则。
-- [intl_unified_numberformat](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/Intl_unified_numberformat) -- intl_unified_numberformat是一个用于实现判断是否支持数字格式化的国际化工具库。
+- [intl_unified_numberformat](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/Intl_unified_numberformat) --【已由GitCode平台认领】 intl_unified_numberformat是一个用于实现判断是否支持数字格式化的国际化工具库。
 - [gcoord](https://github.com/hujiulong/gcoord.git) -- 一个处理地理坐标系的JS库，用来修正百度地图、高德地图及其它互联网地图坐标系不统一的问题。
-- [path-to-regexp](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/PathToRegexpDemo) -- path-to-regexp是一个将路径字符串(如/user/:name)转换为正则表达式的库。
+- [path-to-regexp](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/PathToRegexpDemo) --【已由GitCode平台认领】 path-to-regexp是一个将路径字符串(如/user/:name)转换为正则表达式的库。
 - [source-map-js](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/source_map_js
 ) -- 这是一个用于生成和使用这里描述的源映射格式的库。就是一个信息文件，里面存储了代码打包转换后的位置信息，实质是一个 json 描述文件，维护了打包前后的代码映射关系。
 
