@@ -148,7 +148,7 @@
 - [jfreechart](https://github.com/jfree/jfreechart) -- JFreeChart 是一款功能强大、灵活且广泛使用的 Java 开源图表库，它能帮助开发者轻松地将数据转化为直观的图表。JFreeChart 除了提供丰富的图表类型，还有以下几个突出特点：高度的可定制性；交互式体验；多样的输出格式；动态数据更新；跨平台部署等。
 - [apache commons configuration](https://github.com/apache/commons-configuration) -- Apache Commons Configuration 是一个强大且灵活的 Java 配置管理库，能帮你轻松处理各种配置文件。主要有以下功能。
   多格式支持；统一访问接口；动态配置更新；层次化配置；配置组合；灵活的文件定位等，
-- [joda-time](https://www.joda.org/joda-time/) -- Joda-Time为Java日期和时间类提供了质量替代。该设计允许多个日历系统,同时仍然提供一个简单的API。
+- [joda-time](https://www.joda.org/joda-time/) -- 【**已由GitCode平台认领**】Joda-Time为Java日期和时间类提供了质量替代。该设计允许多个日历系统,同时仍然提供一个简单的API。
 - [node-imap](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/node-imap) -- 适配OpenHarmony环境的IMAP协议三方库。
 - [postcss](https://gitee.com/openharmony-tpc/openharmony_tpc_samples/tree/master/postcss) -- PostCSS是一个用JS插件转换样式的工具。这些插件可以检测你的CSS，支持变量和混合，编译未来的CSS语法，内联图像等等。
 - [stringtemplate](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/stringTemplate) -- stringtemplate是一个用于文本生成的模板引擎,它可以将文本模板与数据合并以生成最终的文本输出。
