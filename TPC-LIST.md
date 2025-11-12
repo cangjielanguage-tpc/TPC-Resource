@@ -18,6 +18,7 @@
   - [任务调度](#任务调度)
   - [数据封装](#数据封装)
   - [数据解析](#数据解析)
+  - [数据库](#数据库)
   - [数据库框架](#数据库框架)
   - [算法类](算法类)
   - [编程框架](编程框架)
@@ -75,6 +76,22 @@
 - [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) -- 【**已由GitCode平台认领**】开源表情键盘解决方案。
 - [Vap](https://github.com/Tencent/vap) -- 【**已由仓颉库团队认领**】VAP（VideoAnimationPlayer）是企鹅电竞开发，用于播放酷炫动画的实现方案。
 - [libpag开源库鸿蒙化移植适配](https://github.com/Tencent/libpag/) -- 【**已由仓颉库团队认领**】动画AE源文件缺失，无法导出lottie格式动画，希望支持libpag
+- [PickerView](https://gitcode.com/openharmony-sig/ohos-PickerView) -- 选择器，包括时间选择、地区选择、分割线设置、文字大小颜色设置
+- [RecyclerViewPager](https://gitcode.com/openharmony-sig/RecyclerViewPager) -- RecyclerViewPager是一个支持自定义左右翻页切换效果、上下翻页切换效果、类似Material风格的容器组件。
+- [material-dialogs](https://gitcode.com/openharmony-sig/ohos_material_dialogs) -- 是自定义对话框库。
+- [@abner/keyboard](https://github.com/AbnerMing888/CustomizeKeyboard) -- 支持英文键盘、支持股票代码键盘、支持车牌省份键盘、支持车牌字母键盘。
+- [@lyb/media-preview](https://gitee.com/lyb5834/media-preview.git) -- 简单易用的媒资预览框架,可自定义支持各种预览
+- [arcview](https://github.com/krmao/arcview) -- arcview for harmony arkui
+- [@keke/color-picker](https://gitee.com/oh_keke/keke.git) -- 颜色选择器组件
+- [@smarthane/titlebar](https://gitee.com/smarthane/titlebar) -- 自定义标题栏
+- [@manco/quickvision](https://gitee.com/BlueTintRains/QuickVisionDemo) -- 使用视觉服务VisionKit
+- [image_gallery_saver](https://github.com/hui-z/image_gallery_saver) -- 用于保存图片到相册的Plugin
+- [@chuck/status](https://gitee.com/ChuckHai/harmony-status) -- status内含页面状态机管理包括loading、错误页面
+- [TextLayoutBuilder](https://gitcode.com/openharmony-sig/ohos_text_layout_builder) -- TextLayoutBuilder是一个可定制任意样式的文本构建工具，包括字体间距、大小、颜色、布局方式、富文本高亮显示等。
+- [d3-ease](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/d3JsEasingDemo) -- 该库为UI动画组件 easing 缓动函数是用来描述数值的变化速率，这些数值可以是动画对象的宽高，透明度，旋转，缩放等属性值，它们的变化率可以用函数曲线来表示,制作出更加符合直觉的UI动效,使动画看上去更加真实。
+- [Slider](https://gitee.com/OpenHarmony1/Slider) -- 自定义滑块组件，支持水平垂直滑动、支持双滑块等特性
+- [ViewSwitcher](https://gitee.com/OpenHarmony1/ViewSwitcher) -- 视图自动切换组件
+- [@jxt/xt_hud](https://gitee.com/kukumalu/xthud.git) -- 进度条，加载空间
 
 
 ### 安全类
@@ -82,17 +99,17 @@
 + [openHiTLS4cj](https://www.openhitls.net/zh/) -- openHiTLS是业界首款面向全场景数智安全、独立创新的开源密码套件，旨在打造算法先进、 性能卓越、高效敏捷、安全可靠的密码套件，通过轻量级、可裁剪的软件技术架构满足各行业不同场景的多样化要求， 同时积极探索后量子等先进算法创新实践，构建密码前沿技术底座！
 - [appauth](https://github.com/openid/AppAuth-Android) -- 【**已由仓颉库团队认领**】用于与OAuth2.0和OpenIDConnect提供程序进行通信的Android客户端SDK。
 - [token](https://github.com/corbel-platform/lib-token<br/>https://github.com/lydell/js-tokens) -- 【**已由仓颉库团队认领**】身份验证令牌库
-- [bouncycastle](https://www.bouncycastle.org/java.html) --【已由GitCode平台认领】 Legion of the Bouncy Castle 是一个开源加密库，提供 Java 和 C# 的轻量级 API 和 JCE 提供者。支持多种算法（对称/非对称加密、签名、MAC、密钥管理），包括 FIPS 140-2/3 合规模块，适用于 J2ME 至现代 JVM，涵盖 PKCS、S/MIME、PGP 等功能。
+- [bouncycastle](https://www.bouncycastle.org/java.html) --【**已由GitCode平台认领**】 Legion of the Bouncy Castle 是一个开源加密库，提供 Java 和 C# 的轻量级 API 和 JCE 提供者。支持多种算法（对称/非对称加密、签名、MAC、密钥管理），包括 FIPS 140-2/3 合规模块，适用于 J2ME 至现代 JVM，涵盖 PKCS、S/MIME、PGP 等功能。
 
 
 ### 编码解析
 
 - [htmlparser2](https://gitee.com/openharmony-tpc/openharmony_tpc_samples/tree/master/htmlparser2) -- 【**已由GitCode平台认领**】htmlparser2是一个快速高效的HTML解析器,并用JavaScript语言实现了相关功能
 - [icu4j](https://github.com/unicode-org/icu/tree/main/icu4j) -- 【**已由仓颉库团队认领**】Unicode统一组件
-- [protobuf_format/xml_js](https://gitee.com/openharmony-tpc/protobuf) -- 【已由GitCode平台认领】protobufjs主要功能是序列化和反序列化，更高效，序列化后的体积也很小.
+- [protobuf_format/xml_js](https://gitee.com/openharmony-tpc/protobuf) -- 【**已由GitCode平台认领**】protobufjs主要功能是序列化和反序列化，更高效，序列化后的体积也很小.
 - [protobuf_format/sax](https://gitee.com/openharmony-tpc/protobuf) -- protobufjs主要功能是序列化和反序列化，更高效，序列化后的体积也很小.
 - [xalan](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/xslt-processor) -- XSLT 处理器，用于将 XML 文档转换为 HTML、文本或其他 XML 文档类型。它实现了XSL 转换 (XSLT) 版本 1.0和 XML 路径语言 (XPath) 版本 1.0，并且可以从命令行、applet 或 servlet 中使用，或者作为其他程序中的模块使用。
-- [dd-plist](https://gitcode.com/openharmony-sig/dd-plist) -- 【已由GitCode平台认领】解析生成属性列表文件的工具库。
+- [dd-plist](https://gitcode.com/openharmony-sig/dd-plist) -- 【**已由GitCode平台认领**】解析生成属性列表文件的工具库。
 - [avro](https://gitcode.com/openharmony-sig/avro) -- 实现的数据序列化系统，支持丰富的数据结构，将其转化成便于存储或传输的二进制数据格式。它同时也是一个容器文件，用于存储持久数据。
 - [xmlbuilder](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/Xmlbuilder) -- xmlbuilder 是一个用于构建 XML 文档的 JavaScript 库。它提供了一种简单而直观的方式来创建和生成符合 XML 标准的文档。
 - [xslt-processor](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/xslt-processor) -- 支持使用与XML文档配对的XSLT样式表将XML文档转换成多中文本格式（HTML、Text等）的库。
@@ -153,21 +170,35 @@
 - [postcss](https://gitee.com/openharmony-tpc/openharmony_tpc_samples/tree/master/postcss) -- PostCSS是一个用JS插件转换样式的工具。这些插件可以检测你的CSS，支持变量和混合，编译未来的CSS语法，内联图像等等。
 - [stringtemplate](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/stringTemplate) -- stringtemplate是一个用于文本生成的模板引擎,它可以将文本模板与数据合并以生成最终的文本输出。
 - [ohos_adaptivecards](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/ohos_adaptivecards) -- 自适应卡片是一种开放式的卡片格式，让开发人员能够使用JSON生成 UI 内容。
-- [@nutpi/idcard](https://atomgit.com/nutpi_tpc/idcard) --【已由GitCode平台认领】 中国居民身份证,港澳台居住证,外国人永久居留身份证解析三方库。
-- [tyme4oh](https://github.com/6tail/tyme4ts.git) -- 【已由GitCode平台认领】日历工具库，支持公历、农历、藏历、星座、干支、生肖、节气、法定假日等。
-- [validator](https://github.com/validatorjs/validator.js) --【已由GitCode平台认领】 字符串验证。
+- [@nutpi/idcard](https://atomgit.com/nutpi_tpc/idcard) --【**已由GitCode平台认领**】 中国居民身份证,港澳台居住证,外国人永久居留身份证解析三方库。
+- [tyme4oh](https://github.com/6tail/tyme4ts.git) -- 【**已由GitCode平台认领**】日历工具库，支持公历、农历、藏历、星座、干支、生肖、节气、法定假日等。
+- [validator](https://github.com/validatorjs/validator.js) --【**已由GitCode平台认领**】 字符串验证。
 - [ohos_dfu_library](https://gitcode.com/openharmony-sig/ohos_dfu_library) -- The DFU is design to update the firmware of nRF51 or nRF52 Series SoCs.
 - [xutils](https://gitcode.com/openharmony-sig/xutils_bak) -- xutils是一个网络、文件、数据库操作的工具库。
 - [@free/global](https://gitee.com/harmony-free/global) -- 涉及请求权限、日志信息、异常捕获、Navigation路由封装、首选项存储封装、屏幕适配。
 - [sanitize-html](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/sanitize-html
 ) -- sanitize-html 提供了HTML清理API，支持HTML片段清理。内置默认的标签、属性等、可根据默认属性进行HTML清理，同时也可进行自行配置，根据用户需求进行自定义HTML清理规则。
-- [intl_unified_numberformat](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/Intl_unified_numberformat) --【已由GitCode平台认领】 intl_unified_numberformat是一个用于实现判断是否支持数字格式化的国际化工具库。
+- [intl_unified_numberformat](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/Intl_unified_numberformat) --【**已由GitCode平台认领**】 intl_unified_numberformat是一个用于实现判断是否支持数字格式化的国际化工具库。
 - [gcoord](https://github.com/hujiulong/gcoord.git) -- 一个处理地理坐标系的JS库，用来修正百度地图、高德地图及其它互联网地图坐标系不统一的问题。
-- [path-to-regexp](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/PathToRegexpDemo) --【已由GitCode平台认领】 path-to-regexp是一个将路径字符串(如/user/:name)转换为正则表达式的库。
+- [path-to-regexp](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/PathToRegexpDemo) --【**已由GitCode平台认领**】 path-to-regexp是一个将路径字符串(如/user/:name)转换为正则表达式的库。
 - [source-map-js](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/source_map_js
 ) -- 这是一个用于生成和使用这里描述的源映射格式的库。就是一个信息文件，里面存储了代码打包转换后的位置信息，实质是一个 json 描述文件，维护了打包前后的代码映射关系。
-
-
+- [fraction_js](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/fraction_js) -- A rational number library。
+- [seedrandom](https://github.com/davidbau/seedrandom) -- 设置随机数种子。
+- [@nutpi/tile-lnglat-transform](https://atomgit.com/nutpi_tpc/tile-lnglat-transform) -- 提供了高德、百度、谷歌、腾讯和必应地图的经纬度坐标与瓦片坐标的相互转换。
+- [parser-html-json](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/parserHtmlJsonDemo) -- 将字符串的html解析为json数据，获取其中相关内容。
+- [@nutpi/fecha](https://atomgit.com/nutpi_tpc/fecha) -- 关于轻量级且简单的JS日期格式化和解析。
+- [ohos_tinycolor2](https://gitee.com/rojerchen/ohos_tinycolor2) -- 一个小型、快速的库，用于JavaScript中的颜色操作和转换。
+- [@chawloo/state-layout](https://github.com/ChawLoo/StateLayout) -- 针对HarmonyOS Next系统开发的缺省页框架，简单、实用、高效。
+- [suncalc](https://gitee.com/ArkTSCentralRepository/suncalc) -- 计算太阳和月亮位置的库。
+- [@nutpi/calendar-tool](https://atomgit.com/nutpi_tpc/calendar_tool) -- 中国农历公历换算算法。
+- [url-parse](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/url_parse) -- 占用空间小的URL解析器。
+- [mdurl](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/mdurl) -- 用于标记-it解析器的URL实用程序。
+- [utilCode](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/utilCode) -- utilCode是一个通用工具的示例，包含温度转换、正则校验、图片处理、坐标转换、和颜色获取等常用功能。
+- [escape_latex](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/escape_latex) -- 使用Javascript转义LaTeX特殊字符。
+- [nodeRulesDemo](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/nodeRulesDemo) -- node-rules 是一个轻量级的正向链接规则引擎。
+- [requires-port](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/requires-port) -- 一个 Node.js 模块，用于检查给定的协议是否需要指定端口号。
+- [@yunkss/ef_core](https://gitee.com/yunkss/ef-tool.git) -- eftool的核心封装包,封装了常用工具类如字符串、正则、身份证、格式校验、日期、手机号、base64等,提供一系列快捷操作方法
 
 
 
@@ -184,7 +215,16 @@
 - [video_trimmer](https://github.com/iknow4/Android-Video-Trimmer) -- 【**已由仓颉库团队认领**】实现Android上使用ffmpeg进行视频裁剪，压缩功能。
 - [LargeImage](https://github.com/LuckyJayce/LargeImage) -- 【**已由仓颉库团队认领**】提供了在应用程序中管理大尺寸图片的功能。
 - [silicompressor](https://github.com/Tourenathan-G5organisation/SiliCompressor) -- 图像/视频压缩库
-- [jmespath](https://github.com/jmespath) -- 【**已由GitCode平台认领**】JMESPath是一种JSON查询语言，可以快速解析复杂的Json数据。支持数据提取，数据筛选，数据格式转换。<br/>场景：快速实现数据查找，如某用户名下的某银行卡信息。<br/>
+- [jmespath](https://github.com/jmespath) -- 【**已由GitCode平台认领**】基于openHarmony系统下使用三方js库jmespath.js，jmespath 是 JSON 的查询语言，可以根据基本表达式、切片、列表和切片投影、对象投影、展平投影、过滤投影、管道表达式、多选、函数等方式查询或者操作JSON数据。
+- [spine](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/Spine) -- Spine是一个 Spine 2D 骨骼动画运行时库，其核心目标是提供轻量、高性能且开发者友好的 API，满足游戏开发、动态内容展示等场景对骨骼动画的需求。
+- [@humor/lg-image-previewer](https://gitee.com/liu_gai/lg-harmony) -- 图片预览功能，让图片浏览更简单
+- [xmlgraphics-batik](https://gitcode.com/openharmony-tpc/XmlGraphicsBatik) -- batik项目用于处理可缩放矢量图形（SVG）格式的图像，例如显示、生成、解析或者操作图像。
+- [gsyvideoplayer](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/GSYVideoPlayer) -- 视频播放器
+- [@hadss/swipeplayer](https://gitcode.com/openharmony-sig/swipe_player) -- SwipePlayer三方库主要聚焦短视频流畅点播切换场景，提供短视频上下滑动切换和快速起播能力，同时通过自定义能力的开放满足应用不同短视频滑动场景的业务诉求
+- [@candies/image_editor](https://github.com/HarmonyCandies/image_editor) -- 图像编辑器，支持裁剪、翻转、旋转、颜色矩阵、混合图像、添加文本和合并多张图片。
+- [pcx-js](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/pcx-js) -- 提供了PCX图像格式解码的能力。
+- [@xinyansoft/oh-crop](https://github.com/sahooz/oh-crop) -- oh-crop: OpenHarmony/HarmonyOS上的简单的图片剪裁库，可用于头像剪裁等常见场景。
+- [@coner/scanner](https://github.com/conerjoy/ScanDemo-harmony) -- 鸿蒙扫一扫组件（多码识别）
 
 
 ### 网络通信
@@ -217,6 +257,28 @@
   OpenSAML Security：提供签名、加密、密钥管理等安全工具。
 - [DNS](https://coredns.io/) -- CoreDNS 是一个灵活的 DNS 服务器，采用 Go 语言编写，通过插件架构提供服务发现、负载均衡、缓存等功能。支持多种协议（DNS、DoT、DoH、DoQ），可从文件、数据库或 Kubernetes 读取数据，易于扩展，适用于云原生环境。
 - [Apache Camel](https://camel.apache.org) -- Apache Camel 是一个基于 企业集成模式（EIP） 的开源框架，核心功能是提供轻量级的消息路由、数据转换与多协议传输（如 HTTP、JMS、FTP 等），通过声明式 DSL 简化异构系统间的集成；其典型使用场景涵盖企业应用（如 ERP/CRM 系统对接）、微服务通信、物联网设备数据处理及实时业务流程自动化。
+- [smbj](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/smbj) -- 主要用于计算机间共享文件，支持安全保护，访问共享目录、打开文件、读写文件等。
+- [retrofit](https://gitcode.com/openharmony-tpc/retrofit) -- 一款用于 OpenHarmony平台的HTTP客户端。
+- [@ohos/amqplib](https://github.com/amqp-node/amqplib) -- 专门为OpenHarmony打造的一个支持AMQP（Advanced Message Queuing Protocol）网络通信协议的library
+- [net-snmp](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/net_snmp) -- net-snmp 是一个 实现了简单网络管理协议(SNMP)的1、2c和3的库。
+- [newsie](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/newsie) -- newsie 是一款实现了 NNTP 客户端协议的三方库，适用于OpenHarmony。
+- [ohos-beacon-library](https://gitcode.com/openharmony-sig/ohos-beacon-library) -- 蓝牙工具，主要涉及信标区域监控以及信标设备测距。
+- [@hadss/super_fast_file_trans](https://gitcode.com/openharmony-sig/super_fast_file_trans) -- 大文件传输场景打造的一款文件传输三方库（super_fast_file_trans, SFFT），致力于提供多线程并发下载、分片上传、断点续下/传、自动重试等多种文件传输过程中的典型功能特性。
+- [@ohos/basic-ftp](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/BasicFtp) -- This is an FTP client library for Node.js
+- [ftp-srv](https://gitcode.com/openharmony-tpc/ohos_ftp_srv) -- ftp-srv是一个用于OpenHarmony的Ftp服务器库。通过ftp-srv，开发者可以轻松地创建和管理Ftp服务器，实现文件的上传、下载、目录查看、目录创建、目录删除等操作。
+- [EspBlufiForHarmony](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/EspBlufiForHarmony) -- 参照开源软件 EspBlufiForAndroid 源码并用 TypeScript 语言实现了相关功能。 这是一个用于控制运行的ESP设备的演示应用程序 BluFi。
+- [ohos_ssh](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/ohos_ssh) -- 基于 libssh-0.11.1 C++库封装的一个支持SFTP服务端以及SSH客户端的三方库。
+- [jackrabbit](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/jackrabbit) -- 支持AMQP（Advanced Message Queuing Protocol）网络通信协议的library，可以在一个进程间传递异步消息。 Jackrabbit底层依赖amqplib库，在RabbitMQ上实现了多种消息传递模式。
+- [xmpp_websocket](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/xmpp_websocket) -- 参照开源软件 xmpp_websocket源码并用 TypeScript 语言实现了相关功能，在OpenHarmony上提供了一个用于处理WebSocket在XMPP协议中的通信的library。
+- [xmpp_middleware](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/xmpp_middleware) -- 参照开源软件 @xmpp/middleware源码并用 TypeScript 语言实现了相关功能，在OpenHarmony上提供了用于@xmpp/client和@xmpp/component的中间件的library。
+- [xmpp_tls](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/xmpp_tls) -- 参照开源软件 @xmpp/tls源码并用 TypeScript 语言实现了相关功能，在OpenHarmony上提供了一个用于与xmpp（Extensible Messaging and Presence Protocol）服务器建立加密TLS连接的library。
+- [xmpp_client_core](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/xmpp_client_core) -- 参照开源软件 @xmpp/client-core源码并用 TypeScript 语言实现了相关功能，在OpenHarmony上提供了用于为@xmpp/client整合entity属性的library。
+- [xmpp_resolve](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/xmpp_resolve) -- 参照开源软件 @xmpp/client-resolve源码并用 TypeScript 语言实现了相关功能，在OpenHarmony上提供了用于解析DNS和HTTP的library。
+- [xmpp_component](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/xmpp_component) -- 参照开源软件 @xmpp/component源码并用 TypeScript 语言实现了相关功能，在OpenHarmony上提供了一个用于创建XMPP(Extensible Messaging and Presence Protocol)扩展消息和在线状态协议组件的library。
+- [xmpp_component_core](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/xmpp_component_core) -- 参照开源软件 @xmpp/component-core源码并用 TypeScript 语言实现了相关功能，在OpenHarmony上提供了一个用于创建XMPP(Extensible Messaging and Presence Protocol)组件并连接到 XMPP 服务器的library。
+- [xmpp_resource_binding](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/xmpp_resource_binding) -- 参照开源软件 xmpp_resource_binding源码并用 TypeScript 语言实现了相关功能，在OpenHarmony上提供了一个用于客户端资源绑定的library。
+- [xmpp_session_establishment](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/xmpp_session_establishment) -- 参照开源软件 @xmpp/session-establishment源码并用 TypeScript 语言实现了相关功能，在OpenHarmony上提供了用于处理服务器发送的特性，并根据这些特性来决定如何建立会话的library。
+
 
 
 ### 数据监控
@@ -284,17 +346,24 @@
 - [rhin](https://rhino.github.io) -- Rhino 的核心是一个完整的 JavaScript 引擎，允许在Java虚拟机上允许JavaScript，支持 ECMAScript 5.1（ES5.1）标准。
 
 
+### 数据库
+- [arangodb](https://gitee.com/openharmony-sig/arangojs) -- ArangoDB 是一款原生多模型数据库，支持灵活的数据模型，适用于文档、图和键值存储。通过便捷的类 SQL 查询语言或 JavaScript 扩展，构建高性能应用程序。
+
+
 ### 数据库框架
 
 - [DataX](https://github.com/alibaba/DataX) -- DataX 是阿里巴巴开源的离线数据同步工具，支持多种数据源（如 MySQL、Oracle、HDFS、Hive）之间的批量同步。提供高性能、插件化架构，支持数据转换、过滤，易于配置和管理，适合异构数据源的稳定传输。
 - [Apache NiFi](https://nifi.apache.org/) 是一个开源数据流平台，支持可视化设计、自动化数据路由、转换和系统调解。提供数百个处理器处理多种数据源（如文件、数据库、Kafka），支持实时/批处理，易扩展，内置安全和监控，适合复杂数据流管理。
+- [@abner/datastore](https://github.com/AbnerMing888/HarmonyOsDataStore) -- datastore是一个用于数据存储的工具库，支持用户首选项、分布式数据库、关系型数据库、让数据存储使用变得无比的简单。
+
 
 
 ### 算法类
 
 - [jts topology suite](https://github.com/locationtech/jts) -- JTS Topology Suite 用于创建和操作矢量几何。它还提供了一组全面的几何测试用例，以及用于处理和可视化几何和 JTS 函数的 TestBuilder GUI 应用程序。JTS 提供了一套完整的工具集，让你能够用代码精确地描述地理特征（点、线、面等），判断它们之间的空间关系（如相交、包含、相离等），并执行各种几何计算（如求交、并、差、缓冲区分析等）。
 - [Apache Lucene](https://lucene.apache.org/) -- Apache Lucene 主要用于全文索引和搜索。它支持高效的文档索引、文本分析、分词、拼写检查、高亮显示等功能。通过倒排索引实现快速检索，支持多种语言和自定义分析器。Lucene Core 是核心组件，PyLucene 提供 Python 绑定，Solr 作为其子项目扩展为分布式搜索平台。
-  
+- [behaviorTree](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/behaviorTree) -- 是行为树 javascript 版实现。
+- [@unravel/throttle_debounce](https://gitee.com/joykang/unravel_package/tree/master/unravel_throttle_debounce) -- 节流和防抖函数
 
 ### 编程框架
  - [parse-sdk](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/parse-sdk) -- Parse JavaScript SDK 是一个功能强大的客户端库，用于与 Parse Server 后端交互。
@@ -303,3 +372,12 @@
 ### 其他
 
 - [PostgreSql鸿蒙化](https://git.postgresql.org/gitweb/?p=postgresql.git;a=summary) -- PostgreSql替换sqlite，优势如下：<br/>1.pg独立进程，不影响服务进程，提高服务进程稳定性<br/>2.pg是多文件存储<br/>3.pg有更好的数据完整性、容错性<br/>4.pg完全开源不受任何商用公司控制。
+- [@easy/tinymce](https://atomgit.com/easy-org/easy-tinymce) -- 基于TinyMCE封装的富文本编辑器
+- [ohos_polka](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/ohos_polka) -- Polka是一个极其简洁、高性能的Express.js替代方案。在提供了原生的HTTP服务器功能之外，增加了对路由、中间件和子应用程序的支持。
+- [ohos_fileio-extra](https://gitcode.com/openharmony-sig/ohos_fileio-extra) -- 提供了更丰富强大的文件操作功能。
+- [ohos_stompjs](https://gitcode.com/openharmony-sig/ohos_stompjs) -- 通过stomp架构实现WebSocket的连接，订阅，发送，接收，取消订阅，断开连接等功能。
+- [stun-server](https://gitcode.com/openharmony-tpc/openharmony_tpc_samples/tree/master/stun-server) -- stun是基于STUN协议的服务开源组件，它允许客户端获取NAT分配的外部IP地址和端口号，还可以识别NAT的行为类型。
+- [Hamcrest](https://gitcode.com/openharmony-sig/Hamcrest) -- hamcrest是匹配器库，可以组合起来匹配。
+- [@shijing/taoyao](https://gitee.com/zhongte/taoyao) -- 封装系统权限API,一款权限请求框架，封装了权限请求逻辑，采用链式调用的方式请求权限，极大的简化了权限请求的代码
+- [mixpanel-ohos](https://gitcode.com/openharmony-tpc/mixpanel-ohos) -- Mixpanel是一个产品分析工具，它使您能够捕获用户与数字产品交互的数据，并允许您使用简单的交互式报告分析此产品数据，您只需要单击几下就可以查询以及可视化数据。
+- [@ohasasugar/hp-richtext](https://github.com/asasugar/HPRichText) -- hp-richtext 是一个适用于 Harmony 的富文本解析组件。
