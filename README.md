@@ -42,6 +42,8 @@
 - [download4cj](https://gitcode.com/Cangjie-TPC/download4cj/overview) —— 文件下载库，提供同步下载、异步下载、暂停任务。
 - [xmpp4cj](https://gitcode.com/Cangjie-TPC/xmpp4cj) —— 开放的即时通讯协议，常用于构建实时通讯应用，如：企业内部通讯系统、多人在线游戏、社交网络等。通过使用 XMPP ,可以方便地实现消息的发送、接收、在线状态管理等功能。
 - [ntp4cj](https://gitcode.com/Cangjie-TPC/ntp4cj) —— 遵循 NTP 协议，从 NTP 服务器获取精确的网络时间。支持自定义 NTP 服务器配置、支持超时控制和错误处理、支持标准 NTP 时间戳解析。
+- [net4cj](https://gitcode.com/Cangjie-TPC/net4cj) —— net4cj库参考Apache Commons Net，基于仓颉语言实现了许多基本Internet协议的客户端，提供基本的协议访问。支持的协议包括 Echo、Finger、FTP、NNTP、NTP、POP3（S）、SMTP（S）、Telnet 和 Whois。
+
 
 [返回目录](#目录)
 
@@ -60,6 +62,9 @@
 - [lite-eventbus-cj](https://gitcode.com/Cangjie-TPC/lite-eventbus-cj/overview) —— 精简的发布/订阅事件总线框架，将事件的接受者和发送者分开，简化了组件之间的通信，使用简单，效率高，体积小。
 - [mqtt4cj](https://gitcode.com/Cangjie-TPC/mqtt4cj/overview) —— MQTT 消息队列遥测传输协议库，是一种基于发布/订阅（publish/subscribe）模式的"轻量级"通讯协议，该协议构建于 TCP/IP 协议上。支持 TCP/TLS/WS/WSS 方式连接消息服务端、支持 MQTTv3 协议连接消息服务端、持 MQTT 主题订阅发布。
 - [eventbus4cj](https://gitcode.com/Cangjie-TPC/eventbus4cj/overview) —— 发布/订阅事件总线框架，主要功能是替代 Intent、Handler、BroadCast 在 Activity、Fragment、Service 线程之间传递消息。支持普通事件的订阅和发布，支持粘性事件的订阅和发布。
+- [eventsource4cj](https://gitcode.com/Cangjie-TPC/eventsource4cj) —— 基于仓颉语言实现的SSE规范(Html5, Server-Send Event)组件。用于服务端和客户端的单向消息推送场景。
+
+
 
 [返回目录](#目录)
 
@@ -116,6 +121,9 @@
 - [md5-cj](https://gitcode.com/Cangjie-TPC/md5-cj) —— 用于计算消息摘要的密码散列函数库，可以将任意长度的字符串转换成一个 128 位（16字节）的散列值。
 - [sha256-cj](https://gitcode.com/Cangjie-TPC/sha256-cj) —— 密码散列函数，支持使用 UTF-8 编码计算生成数据的 256位（32 字节）散列值。
 - [md2-cj](https://gitcode.com/Cangjie-TPC/md2_cj) —— 消息摘要算法，支持字符串和文件的 MD2 消息摘要计算。
+- [appauth4cj](https://gitcode.com/Cangjie-TPC/appauth4cj) —— appauth4cj 库，帮助应用安全地实现用户登录和访问受保护资源的功能。 它遵循 OAuth 2.0 和 OpenID Connect 这两个业界标准协议。
+- [hicrypto](https://gitcode.com/Cangjie-TPC/hicrypto) —— HiCrypto是一个基于仓颉语言开发的密码学库，底层密码套件使用了华为公司自研的openHiTLS，提供了高效、敏捷的全场景开源密码学开发套件。
+
 
 [返回目录](#目录)
 
@@ -142,13 +150,23 @@
 - [tar4cj](https://gitcode.com/Cangjie-TPC/tar4cj) —— tar 格式的压缩和解压缩三方库。
 - [fast-eventbus-cj](https://gitcode.com/Cangjie-TPC/fast-eventbus-cj) —— 发布/订阅事件总线，为多线程应用程序中的高吞吐量而优化的强大事件总线。支持同步和异步事件发布、事件过滤功能。
 - [msgpack4cj](https://gitcode.com/Cangjie-TPC/msgpack4cj) —— 基于 msgpack 序列化协议的仓颉实现。旨在为仓颉应用提供高效、紧凑的二进制数据交换格式。支持快速的数据序列化和反序列化操作，适用于需要高性能和低开销的数据传输场景。
+- [xsequence4cj](https://gitcode.com/Cangjie-TPC/xsequence4cj) —— xsequence4cj 是一个分布式序列号生成组件。
+- [metadata-extractor-cj](https://gitcode.com/Cangjie-TPC/metadata-extractor-cj) —— metadata-extractor-cj 用于从媒体文件中读取元数据。它可以处理多种文件格式，如 JPEG、TIFF、GIF、BMP等，并提取这些文件中包含的各种元数据信息。
+- [brotli4cj](https://gitcode.com/Cangjie-TPC/brotli4cj) —— 支持 brotli 格式的压缩和解压缩。
+- [cjmustache](https://gitcode.com/Cangjie-TPC/cjmustache) —— 一个迁移自 jmustache 的模版引擎项目。
+- [cjfast_json](https://gitcode.com/Cangjie-TPC/cjfast_json) —— cjfast_json是一个用仓颉语言编写的高性能JSON处理库，提供了快速的JSON序列化和反序列化功能。该库专为提升JSON处理效率而设计，支持标准JSON数据类型与仓颉语言原生数据结构的相互转换。
+
+
+
 
 [返回目录](#目录)
 
 ### <a name="日志类"></a>日志类
 
 - [log-cj](https://gitcode.com/Cangjie-TPC/log-cj/overview) —— 日志管理框架，支持控制台日志输出和文件日志输出，支持使用 Json 进行自定义配置。
+- [syslog4cj](https://gitcode.com/Cangjie-TPC/syslog4cj) —— Syslog4cj 是一个用于处理系统日志（Syslog）的库，它提供了丰富的功能和灵活的配置选项，支持多种系统日志协议，如 TCP、UDP 等。
 
+  
 [返回目录](#目录)
 
 ### <a name="算法类"></a>算法类
@@ -173,6 +191,10 @@
 - [mp3tag4cj](https://gitcode.com/Cangjie-TPC/mp3tag4cj/overview) —— 用于读取、写入、添加和删除 ID3v1、ID3v2 标签。标签表示内容支持 ISO-8859-1，UTF-16LE，UTF-16BE，UTF-8 4种编码； 读取音频数据帧帧头包含的数据信息；判断 VBR 文件，获得每个音频数据帧的位率；在音频数据帧结尾和 ID3v1 标记之间添加或删除自定义标签。
 - [ijkplayer-ffi](https://gitcode.com/Cangjie-TPC/ijkplayer-ffi/overview) —— 基于 FFmpeg 的视频播放器，包括视频播放、暂停、停止、重置、释放、前进、后退、倍数播放、循环播放、设置音量、屏幕常亮等。适用于 OHOS 系统。
 - [videocache4cj](https://gitcode.com/Cangjie-TPC/videocache4cj) —— 边播放边缓存的库，支持自定义设置缓存文件夹位置、设置最大缓存数据清理策略、添加请求头、使用自定义的缓存文件命名规则、注册/取消缓存进度监听器、设置自定义的缓存文件清理规则。
+- [video-trimmer-cj](https://gitcode.com/Cangjie-TPC/video-trimmer-cj) —— video-trimmer提供视频剪辑能力的三方库。
+- [webrtc-ffi](https://gitcode.com/Cangjie-TPC/webrtc-ffi) —— webrtc4cj 是一个基于仓颉版终端提供WebRTC的接口封装，并在C++层适配了视频的采集、渲染及编解码等模块。
+
+  
  
 [返回目录](#目录)
 
@@ -193,6 +215,9 @@
 - [rounded-image-view-cj](https://gitcode.com/Cangjie-TPC/rounded-image-view-cj) —— 实现图片的圆角显示效果的图片控件。支持多种缩放类型、多种背景平铺类型、多种样式效果、支持多种图片资源数据绘制。
 - [circle-image-view-cj](https://gitcode.com/Cangjie-TPC/circle-image-view-cj) —— 图片处理库，可以将图片裁剪为圆形或者给图片设置边框。
 - [large-image-cj](https://gitcode.com/Cangjie-TPC/large-image-cj) —— 支持加载图像、缩放图像、拖动图像、双击放大图像。
+- [libpag-ffi](https://gitcode.com/Cangjie-TPC/libpag-ffi) —— libpag-cj是一款在仓颉环境下适配的动态图形渲染库，它基于腾讯的 libpag 开发，并对 libpag 进行了封装。libpag 旨在为仓颉开发者提供高效的矢量动画与序列帧渲染支持。
+- [avif-ffi](https://gitcode.com/Cangjie-TPC/avif-ffi) —— avif-ffi是一个对avif图片进行解码显示的仓颉库，解码后静态avif图片和动态avif图片都可以显示在控件上。
+
 
 [返回目录](#目录)
 
@@ -216,6 +241,8 @@
 - [easing-functions-cj](https://gitcode.com/Cangjie-TPC/easing-functions-cj) —— 动画效果库，该库的函数曲线可用于控制动画对象实现特定的运动轨迹。支持 BackEaseIn 、BackEaseOut 、ExpoEaseOut、SineEaseIn 、SineEaseOut 等多种动画效果。
 - [apng4cj](https://gitcode.com/Cangjie-TPC/apng4cj) —— APNG 格式的动画展示，支持本地上传 apng 文件、解析并播放。用于启动页动画、商品动画等。
 - [svga-cj](https://gitcode.com/Cangjie-TPC/svga-cj) —— SVGA 格式的动画展示，支持动画播放、暂停、快进等功能。
+- [lottie-ffi](https://gitcode.com/Cangjie-TPC/lottie-ffi) —— lottie动画的加强版本。
+- [vap-ffi](https://gitcode.com/Cangjie-TPC/vap-ffi) —— 强大动画粒子特效渲染组件。
 
 [返回目录](#目录)
 
@@ -253,12 +280,18 @@
 - [amount-input-text-cj](https://gitcode.com/Cangjie-TPC/amount-input-text-cj) —— 金额输入组件，带有金融业专用版数字键盘。支持常用币种输入、支持键盘乱序、自定义标题等动态化配置。数据未进行网络传输及本地存储，所输入的内容不会被捕捉，相比于系统输入法，更加安全。
 - [floating-menu-cj](https://gitcode.com/Cangjie-TPC/floating-menu-cj) —— 悬浮菜单 UI 组件，高度可定制，支持标签、图标、水波纹、悬浮操作按钮和标签背景颜色设置等。
 - [easy-loading-cj](https://gitcode.com/Cangjie-TPC/easy-loading-cj) —— 支持各类加载效果的 UI 组件，提供 27 种动画加载效果以及 Toast 功能。
+- [vlayout4cj](https://gitcode.com/Cangjie-TPC/vlayout4cj) —— vlayout4cj 能够处理列表、网格和其它布局在同一个视图的复杂情况，使用者可以使用已设定好的容器布局组件，也可以在此基础上自定义容器布局组件
+
+  
+  
 
 [返回目录](#目录)
 
 ### <a name="科学计算"></a>科学计算
 
 - [matrix4cj](https://gitcode.com/Cangjie-TPC/matrix4cj/overview) —— 线性代数库，用于构造和操作密集矩阵。
+- [scientific](https://gitcode.com/Cangjie-TPC/scientific) —— scientific 是仓颉编程语言中用于统计分析、线性代数求解和数据可视化的库。 我们也对科学计算相关的其他领域感兴趣，这些可能成为未来开发的功能。
+
 
 [返回目录](#目录)
   
@@ -266,13 +299,18 @@
 
 - [microsevice](https://gitcode.com/Cangjie-TPC/microsevice/overview) —— 仓颉语言实现的快速微服务开发框架。支持注册发现、远程过程调用、http协议、json协议、零侵入业务代码，实现自动装配、手动装配、自定义网络库装配3种模式。感谢上海赛可出行科技服务有限公司架构团队为仓颉编程语言 TPC 社区做出的贡献！
 - [CJQT](https://gitcode.com/Cangjie-TPC/CJQT/overview) —— Qt是一个跨平台的C++图形用户界面应用程序开发框架。CJQT是基于仓颉语言对QT进行封装的三方库，侧重QT的widgets封装。目标为使用CJQT可以实现用户界面交互。感谢上海双洪信息技术有限公司为仓颉编程语言 TPC 社区做出的贡献！
+- [rxcj](https://gitcode.com/Cangjie-TPC/rxcj) —— 响应式编程框架。
+  
 
 [返回目录](#目录)
   
   ### <a name="数据监控"></a>数据监控
 
 - [apm_sdk](https://gitcode.com/Cangjie-TPC/apm_sdk/overview) —— 仓颉APM 遵循OTel API规范完成了Metrics 、Tracing数据模型定义，基于OTel SDK规范实现Metrics、Traces等数据的采集。感谢北京宝兰德软件股份有限公司中间件团队为仓颉编程语言 TPC 社区做出的贡献！
+- [hm-metricx-cj](https://gitcode.com/Cangjie-TPC/hm-metricx-cj) —— hm-metricx-cj 是一款适用于鸿蒙应用的线上性能监控框架。
 
+  
+  
 [返回目录](#目录)
   
   ### <a name="熔断降级"></a>熔断降级
