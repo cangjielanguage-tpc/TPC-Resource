@@ -16,21 +16,11 @@ Cangjie-TPC 是 Cangjie 社区用于汇集基于仓颉编程语言开发的开�
 
 #### STEP 1 提交创建项目申请 issue
 
-请点击下方链接，[选择项目创建申请 issue 模版](https://gitcode.com/Cangjie-TPC/TPC-Resource/issues/create/choose)，按照模版，详尽填写信息（如果创建项目申请 issue 不够详细，社区不会通过该申请），并提交 issue
+请点击链接，[选择项目创建申请 issue 模版](https://gitcode.com/Cangjie-TPC/TPC-Resource/issues/create/choose)，按照模版，详尽填写信息（如果创建项目申请 issue 不够详细，社区不会通过该申请），并提交 issue
 
-#### STEP 2 提交创建项目申请 email
+#### STEP 2 签署 CLA 协议
 
-请点击下方链接，[下载项目创建申请 email 模版](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/%E3%80%90Cangjie-TPC%E7%A4%BE%E5%8C%BA%E3%80%91%E9%A1%B9%E7%9B%AE%E5%88%9B%E5%BB%BA%E7%94%B3%E8%AF%B7.docx)，按照模版，详尽填写信息（如果创建项目申请 email 不够详细，社区不会通过该申请），并向 `cangjie@huawei.com` 发送该邮件
-
-注意：邮件附件必须包括项目初始化内容（包含README，LICENSE，CHANGELOG，cjpm.toml），点击下方链接，[下载项目初始化模版](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/template.zip)，请以`项目名称.zip`方式返回
-
-#### STEP 3 Cangjie-TPC 组织评审
-
-Cangjie-TPC 社区将在5个工作日内进行评审，评审结果将以邮件形式返回
-
-#### STEP 4 签署 CLA 协议
-
-评审通过后，请点击下方链接，[下载 CLA 模版](https://gitcode.com/Cangjie-TPC/Community/tree/main/CLA)，打印签署后，回复邮件至 `cangjie@huawei.com` 
+请点击链接，[签署 CLA ](https://clasign.cangjie-lang.cn/sign/Z2l0Y29kZSUyRkNhbmdqaWU=)
 
 **注意：**
 
@@ -38,19 +28,23 @@ Cangjie-TPC 社区将在5个工作日内进行评审，评审结果将以邮件�
 
 + ICLA 为个人贡献协议
 
-#### STEP 5 准入孵化
+#### STEP 3 提交创建项目申请 email
 
-签署 CLA 协议后，Cangjie-TPC 社区将在5个工作日内创建项目，并邀请您加入项目
+请点击下方链接，[下载项目创建申请 email 模版](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/%E3%80%90Cangjie-TPC%E7%A4%BE%E5%8C%BA%E3%80%91%E9%A1%B9%E7%9B%AE%E5%88%9B%E5%BB%BA%E7%94%B3%E8%AF%B7.docx)，按照模版，详尽填写信息（如果创建项目申请 email 不够详细，社区不会通过该申请），并向 `cangjie@huawei.com` 发送该邮件
 
-+ 您的项目将首先以孵化状态加入Cangjie-SIG组织
-+ 若您的项目隶属于三方库招募列表，则将基于项目质量及社区开源规则进行项目审查，通过后在Cangjie-TPC组织中公开
-+ 若您的项目暂时不符合上述条件，则将视情况在Cangjie-SIG中公开、继续孵化或转入Cangjie-Retired组织
+注意：邮件附件推荐包括项目初始化内容（包含README，LICENSE，CHANGELOG，cjpm.toml），模板请参考[项目初始化模版](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/template.zip)，请以`项目名称.zip`方式附加至邮件
 
-[Cangjie-TPC组织](https://gitcode.com/Cangjie-TPC)、[Cangjie-SIG组织](https://gitcode.com/Cangjie-SIG)和[Cangjie-Retired组织](https://gitcode.com/Cangjie-Retired)同属Cangjie-TPC社区管辖
+#### STEP 4 Cangjie-TPC 组织评审
 
-#### STEP 6 准出毕业
+[TPC Team](https://gitcode.com/Cangjie/community/blob/main/team/team_tpc/team_tpc_cn.md) 将在**5个工作日**内进行评审，评审结果将以邮件形式返回
 
-毕业相关质量标准以及基础设施正在建设中，敬请期待
+
+#### STEP 5 创建项目
+
+评审通过后，[TPC Team](https://gitcode.com/Cangjie/community/blob/main/team/team_tpc/team_tpc_cn.md) 将在**5个工作日**内创建项目，并邀请您加入项目
+
++ **注意：** 若项目创建后一个月内仍为空仓，将按废弃处理并删除仓库。如仍有建仓需求，需重新提交申请。建议在项目创建后尽快完成首次代码提交。
+
 
 ### 3.2 贡献 PR
 
@@ -62,9 +56,9 @@ Cangjie-TPC 社区将在5个工作日内进行评审，评审结果将以邮件�
 
 针对解决该 issue 编写代码以及测试用例（如果您的 issue 没有测试用例可能不会被接纳）
 
-#### STEP 3 提交 PR 并勾选 CLA
+#### STEP 3 提交 PR 并签署 CLA
 
-提交 PR 并勾选 CLA，PR 模板如下：
+提交 PR 并签署 CLA，PR 模板如下：
 
 ```
 标题：
