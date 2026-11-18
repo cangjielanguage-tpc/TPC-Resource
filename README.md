@@ -328,7 +328,7 @@
 
   ### <a name="版本对应关系"></a>版本对应关系
 
-- [鸿蒙SDK与仓颉内核版本对应关系](https://gitcode.com/kun325/TPC-Resource/blob/main/鸿蒙SDK与仓颉内核版本对应关系.md)
+- [鸿蒙SDK与仓颉内核版本对应关系](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/鸿蒙SDK与仓颉内核版本对应关系.md)
 
 [返回目录](#目录)
 
